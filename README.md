@@ -2,7 +2,8 @@
 Alcove Shows website/in-gallery kiosk
 
 
-*notes
+## *notes
+
 One layout design (html) but different color palletes and fonts (css) for each set of Alcove Shows (by year) - bootstrap
 
 Use modal popup or lightbox (originally fancybox - http://fancyapps.com/fancybox/3/) for images in gallery
