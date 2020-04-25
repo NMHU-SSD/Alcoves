@@ -8,12 +8,11 @@ One layout design (html) but different color palletes and fonts (css) for each s
 
 Use modal popup or lightbox (originally fancybox - http://fancyapps.com/fancybox/3/) for images in gallery
 
-filter image data by artist - list.js
+filter image data by artist - list.js or similar
 
-use of template engine to auto populate templates - handlebars.js or similar
+use of template engine to auto populate templates - handlebars.js or similar (or look into reactjs or vuejs without node)
 
-Organize data for Alcoves (CSV is ideal for the museum, but XML is fine)
-Program will need to convert data to json - jquery-xml2json or papaparse.js
+Organize data for Alcoves (CSV is ideal for the museum, but XML is fine). Program will need to convert data to json - see jquery-xml2json or papaparse.js
 
 Server space is Apache. Best not to use Node/NPM so IT doesn't have to do anything extra on the server.
 
