@@ -8,7 +8,7 @@ One layout design (html) but different color palletes and fonts (css) for each s
 
 Use modal popup or lightbox for images in gallery - https://photoswipe.com/
 
-filter image data by artist - list.js or similar
+filter image data by artist - simple show/hide functionality or use list.js or similar filter library
 
 use of template engine to auto populate templates - handlebars.js + html5 storage (or Vuejs without node)
 
