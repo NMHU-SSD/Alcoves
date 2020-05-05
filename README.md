@@ -10,7 +10,7 @@ Use modal popup or lightbox for images in gallery - https://photoswipe.com/
 
 filter image data by artist - list.js or similar
 
-use of template engine to auto populate templates - handlebars.js + html5 storage or similar (or look into reactjs or vuejs without node)
+use of template engine to auto populate templates - handlebars.js + html5 storage (or look into reactjs or vuejs without node)
 
 Organize data for Alcoves (CSV is ideal for the museum, but XML is fine). Program will need to convert data to json - see jquery-xml2json or papaparse.js
 
