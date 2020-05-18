@@ -1,0 +1,29 @@
+.logo{
+    width: auto;
+    height: 100px;
+    margin-bottom: 8px;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #e7e7e7;
+}
+footer .logo{
+    height: 55px;
+         
+}
+
+.gallery img{
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.gallery figcaption {
+    display: none;
+}
+
+.pswp img {
+    max-width: none;
+    object-fit: contain;
+
+}

@@ -1,0 +1,2898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alcoves year="2016-2017">
+	<title> About </title>
+	<description> DESCRIPTION </description>
+	<exhibits>
+		<exhibit id="16.1" dates="">
+			<installation>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general1.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general2.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general3.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general4.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general5.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general6.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general7.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general8.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.1/Alcoves16.1_general9.jpg </source>
+					<caption><![CDATA[ Alcove 16.1 isntallation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Bonnie Lynch">
+					<image>
+						<source>/16/16.1/16.1_Bonnie Lynch/Alcoves_BonnieLynch.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Bonnie Lynch ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Bonnie Lynch/BL1_Reliquary.jpg </source>
+						<caption>
+							<![CDATA[ 
+                                Bonnie Lynch<br>
+<i>Reliquary</i>, 2007<br>
+                                Saggar fired clay<br>
+                                Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Bonnie Lynch/BL2_Horizontal Scallop.jpg </source>
+						<caption>
+							<![CDATA[ 
+                                Bonnie Lynch<br>
+<i>Horizontal Scallop</i>, 2014<br>
+                                Saggar fired clay<br>
+                                Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Bonnie Lynch/BL3_Orb1.jpg </source>
+						<caption>
+							<![CDATA[ 
+                                Bonnie Lynch<br>
+<i>Orb 1</i>, 2013<br>
+                                Saggar fired clay<br>
+                                Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Bonnie Lynch/BL4_Orb2.jpg </source>
+						<caption>
+							<![CDATA[ 
+                                Bonnie Lynch<br>
+<i>Orb 2</i>, 2013<br>
+                                Saggar fired clay<br>
+                                Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Gloria Graham">
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/Alcoves_GloriaGraham.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Gloria Graham ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG1_Calcium.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Calcium</i>, 2015<br>
+							Graphite on paper<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG2_Pyrite.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Pyrite</i>, 2015<br>
+							Graphite on paper<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG3_Carbon.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Carbon</i>, 2015<br>
+							Graphite on paper<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG4_Quartz.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Quartz</i>, 2015<br>
+							Graphite on paper<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG5_Titanium.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Titanium</i>, 2015<br>
+							Graphite on paper<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG6_Salt_Garnet_Nickel.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Salt/Garnet/Nickel</i>, 2004<br>
+							Graphite on layered vellum<br>
+							Courtesy of the Lannan Foundation
+						]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Gloria Graham/GG7_Beryl_Silicon.jpg </source>
+						<caption>
+							<![CDATA[ 
+							Gloria Graham<br>
+<i>Beryl/Silicon/Silicon</i><br>
+							Graphite on layered vellum<br>
+							Courtesy of the Artist
+						]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Herbert Lotz">
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/Alcoves_HerbLotz.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Herbert Lotz ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL1_Outer_Drive_Chicago_Mustang_vs._Skylark.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>Outer Drive, Chicago-Mustang vs Skylark</I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist  
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL2_Outer_Drive_Chicago_Hertz.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>Outer Drive, Chicago- Hertz</I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist  
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL3_NM_Highway_ Auto_Portrait.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>New Mexico Highway – Autoportrait </I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist  
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL4_Buckman_Road.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>Buckman Road-Rooftop</I>, 1972<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL5_Lake_Shore_Chicago.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>Lake Shore, Chicago – No Diving</I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL6_NM_ Highway.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>New Mexico Highway-1963, 230sl</I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Herbert Lotz/HL7_NM_ Highway_Rest_Area.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Herbert Lotz<br>
+<i>New Mexico Highway, Rest Area</I>, 1970<br>
+								Chromium pigment print, printed 2016<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Scott Anderson">
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/Alcoves_ScottAnderson.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Scott Anderson ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA1_Cosmopolitans.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Cosmopolitans</i>, 2013<br>
+								Oil on linen<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA2_Tranzam.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Tranzam</i>, 2013<br>
+								Oil on canvas<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA3_Banana_Sunrise.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Banana Sunrise</i>, 2013<br>
+								Oil on panel<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA4_Crest_Generations.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Crest Generations</i>, 2013<br>
+								Oil on panel<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA5_Shrink.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Shrink</i>, 2014<br>
+								Oil on panel<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA6_Crest_Head_Avian.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Crest Head Avian</i>, 2013<br>
+								Oil on panel<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Anderson/SA7_Vegetarian_Dreams_of_Tropical_Game.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Scott Anderson<br>
+<i>Vegetarian Dreams of Tropical Game</i>, 2015<br>
+								Oil and oil crayon on canvas<br>
+								Courtesy of the artist and CES Gallery<br>
+								Los Angeles
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Scott Greene">
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/Alcoves_ScottGreene.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Scott Greene ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG1_UV_Celltree.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>UV Celltree</i>, 2013<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG2_Bear_Market.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>Bear Market</i>, 2015<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG3_La_Bajada_Bluff.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>La Bajada Bluff</i>, 2013<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG4_MoBro.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>MoBro: High Seas Drifter</i>, 2015<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG5_Numerations.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>Numerations</i>, 2015<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.1/16.1_Scott Greene/SG6_Oasis.jpg </source>
+						<caption>
+							<![CDATA[
+								Scott Greene<br>
+<i>Oasis</i>, 2010<br>
+								Oil on canvas and panel<br>
+								Courtesy of the artist and<br>
+								Catharine Clark Gallery
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.2" dates="">
+			<installation>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-01Overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-02general.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-05overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-09overview.jpg</source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-10overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-11overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-12overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.2/Alcoves16.2_B-13overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.2 installation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Jack Slentz">
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/Alcoves16.2_JackSlentz.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Jack Slentz ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/JS1_Jack.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jack R. Slentz<br>
+<i>Jack</i>, 2015<br>
+								Bay Lauryl Burl, rubber<br>
+								Courtesy of the Artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/JS2_Bent.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jack R. Slentz<br>
+<i>Bent</i>, 2015<br>
+								Steel, rubber<br>
+								Courtesy of the Artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/JS3_A_Plus.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jack R. Slentz<br>
+<i>A Plus, Definitely a Plus</i>, 2016<br>
+								Steel, rubber<br>
+								Courtesy of the Artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/JS4_Chastity_Belt.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jack R. Slentz<br>
+<i>Chastity Belt</i>, 2015<br>
+								Steel, rubber<br>
+								Courtesy of the Artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Jack Slentz/JS5_Self_Portrait.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jack R. Slentz<br>
+<i>Self Portrait</i>, 2016<br>
+								Steel, rubber<br>
+								Courtesy of the Artist 
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Katherine Lee">
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/Alcoves16.2_KatherineLee.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Katherine Lee ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL1_Study_of_Graces.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Study of The Graces as Wind Dancers</i>, 2015<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL2_Watermelom_Sugar_Water_Saw.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Untitled Study (Watermelon Sugar Water-Saw)</i>, 2014<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL3_Wind_Study.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Untitled Wind Study</i>, 2014<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL4_Study_of_Seasonal_Anchor.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Study of Seasonal Anchor (Holding Tables)</i>, 2016<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL5_Candle_Ladder.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Study of Candle Ladder</i>, 2016<br>
+								Cast paraffin and beeswax candle, cold rolled steel ,occasionally flame<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL6_Candle_Ladder.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Study of Candle Ladder</i>, 2014<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL7_Study_of_Candle_Room.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Study of Candle Room</i>, 2014<br>
+								Graphite on Yupo paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL8_Emblem_Study_installview.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Death Emblem Study Series(January-December)</i>, 2015<br>
+								EV1 /3, laser etchings on pages from Life Magazine<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL9_1 January_Plum .jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Death Emblem Study, January/Plum</i>, 2015<br>
+								EV1 /3, laser etchings on pages from Life Magazine<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL10_2 Febuary_Peach .jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Death Emblem Study, February/ Peach</i>, 2015<br>
+								EV1 /3, laser etchings on pages from Life Magazine<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL11_3 March_Peony.jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Death Emblem Study, March/Peony</i>, 2015<br>
+								EV1 /3, laser etchings on pages from Life Magazine<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Katherine Lee/KL12_4_April_Cherry .jpg </source>
+						<caption>
+							<![CDATA[
+								Katherine Lee<br>
+<i>Death Emblem Study, April/Cherry</i>, 2015<br>
+								EV1 /3, laser etchings on pages from Life Magazine<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Philip Augustin">
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/Alcoves16.2_PhilipAugustin.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Philip Augustin ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA2_11-062-03.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #11-062-03</i>, 2011<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA1_12-033-13.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #12-033-13</i>, 2012<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA3_13-044-09.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #13-044-09</i>, 2013<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA4_16-020-01.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #16-020-01</i>, 2016<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA5_11-064-17.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #11-064-17</i>, 2011<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA6_16-025-09.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #16-025-09</i>, 2016<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA7_16-018-15.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #16-018-15</i>, 2016<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/PA8_14-009-15.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #14-009-15</i>, 2014<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Philip Augustin/A9_16-007-09.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Philip V. Augustin <br>
+<i>Negative #16-007-09</i>, 2014<br>
+								Gelatin Silver Print<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Stephen Davis">
+					<image>
+						<source> 16/16.2/16.2_Stephen Davis/Alcoves16.2_StephenDavis.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Stephen Davis ]]></caption>
+					</image>
+					<image>
+						<source> 16/16.2/16.2_Stephen Davis/Alcoves16.2_StephenDavis.jpg </source>
+						<caption>
+							<![CDATA[
+								Stephen Davis<br>
+<i>Chair 7</i>, 2014<br>
+								Acrylic, oil, charcoal, gesso, canvas,<br> 
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> 16/16.2/16.2_Stephen Davis/SD2_Chair4.jpg </source>
+						<caption>
+							<![CDATA[
+								Stephen Davis<br>
+<i>Chair 4</i>, 2006<br>
+								Gesso, acrylic, charcoal, oil, canvas<br> 
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> 16/16.2/16.2_Stephen Davis/SD3_Cant_Sit_Still.jpg </source>
+						<caption>
+							<![CDATA[
+								Stephen Davis<br>
+<i>Can't Sit Still</i>, 2015<br>
+								Gesso, acrylic, charcoal, oil, canvas<br> 
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> 16/16.2/16.2_Stephen Davis/SD4_Macular_Royale.jpg </source>
+						<caption>
+							<![CDATA[
+								Stephen Davis<br>
+<i>Macular Royale</i>, 2015<br>
+								Gesso, acrylic, charcoal, oil, canvas<br> 
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Walter Robinson">
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/Alcoves16.2_WalterRobinson.jpg </source>
+						<caption><![CDATA[ Alcove 16.1 installation view, Walter Robinson ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR1_Red_Tide .jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>Red Tide</i>, 2016<br>
+								Wood, plastic, steel, copper, found net<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA and<br>
+								Turner Carroll Gallery, Santa Fe, NM
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR2_Toll .jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>Toll</i>, 2015<br>
+								Wood, steel, bronze paint<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR3_St._Francis.jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>St. Francis</i>, 2015<br>
+								Wood, leather, rubber, feathers, found objects<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR4_Mine .jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>Mine</i>, 2016<br>
+								Leather, cotton, wood, plastic, glass<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA and<br>
+								Turner Carroll Gallery, Santa Fe, NM
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR5_Magic_Thinker_Male.jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>Magical Thinker (Male)</i>, 2016<br>
+								Leather, wood, found toys and applique<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA<br>
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.2/16.2_Walter Robinson/WR5_Magic Thinker_Female.jpg </source>
+						<caption>
+							<![CDATA[
+								Walter Robinson<br>
+<i>Magical Thinker (Female)</i>, 2016<br>
+								Leather, wood, found toys and applique<br>
+								Courtesy Catharine Clark Gallery,<br>
+								San Francisco, CA<br>
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.3" dates="">
+			<installation>
+				<image>
+					<source>/16/16.3/Alcoves16.3_overview.jpg </source>
+					<caption><![CDATA[ Alcove 16.3 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.3/Alcoves16.3_overview2.jpeg </source>
+					<caption><![CDATA[ Alcove 16.3 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.3/Alcoves16.3_overview3.jpg</source>
+					<caption><![CDATA[ Alcove 16.3 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.3/Alcoves16.3_overview4.jpg</source>
+					<caption><![CDATA[ Alcove 16.3 isntallation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.3/Alcoves16.3_overview5(s).jpg</source>
+					<caption><![CDATA[ Alcove 16.3 isntallation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Cecilia Portal">
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/Alcoves16.3_CeciliaPortal1.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Cecilia Portal ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/Alcoves16.3_CeciliaPortal2.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Cecilia Portal ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/Alcoves16.3_CeciliaPortal3.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Cecilia Portal ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP1_4Asfalto_linea trunca .jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Asfalto /Chapter Two - White on Asphalt</i>, 2014 - 2015<br>
+								Blanco sobre Asfalto #4/White on Asphalt #4<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP2_6Asfalto_linea trunca .jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Asfalto /Chapter Two - White on Asphalt</i>, 2014 - 2015<br>
+								Blanco sobre Asfalto #6/White on Asphalt #6<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP3_7Asfalto_linea trunca .jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Asfalto /Chapter Two - White on Asphalt</i>, 2014 - 2015<br>
+								Blanco sobre Asfalto #6/White on Asphalt #6<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP4_Blanco #2222.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>La Vida de lo Blanco/The Life of White</i>, 2014<br>
+<i>Capitulo Uno - Blanco Sobre Cartón /Chapter One –</i> White on Cardboard <br>
+								Blanco sobre Asfalto #2/White on Asphalt #2<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP5_Blanco #110111.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>La Vida de lo Blanco/The Life of White</i>, 2014<br>
+<i>Capitulo Uno - Blanco Sobre Cartón /Chapter One –</i> White on Cardboard <br>
+								Blanco #110111/White #110111<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP6_Blanco #661000.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>La Vida de lo Blanco/The Life of White</i>, 2014<br>
+<i>Capitulo Uno - Blanco Sobre Cartón /Chapter One –</i> White on Cardboard<br>
+								Blanco #661000/White #661000<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP7_Blanco en papel 2 .jpg </source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Papel /Chapter Two –</i> White on Paper, 2015<br>
+								Blanco sobre Papel #2/White on Paper #2<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP8_Blanco en papel 3.jpg</source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Papel /Chapter Two –</i> White on Paper, 2015<br>
+								Blanco sobre Papel #3/White on Paper #3<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Cecilia Portal/CP9_Blanco en papel 4.jpg</source>
+						<caption>
+							<![CDATA[ 
+								Cecilia Portal<br>
+<i>Capitulo Dos - Blanco Sobre Papel /Chapter Two –</i> White on Paper, 2015<br>
+								Blanco sobre Papel #4/White on Paper #4<br>
+								Pigment print
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Christina Dallas">
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/Alcoves16.3_ChristinaDallas1.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Christina Dallas ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/Alcoves16.3_ChristinaDallas2.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Christina Dallas ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/Alcoves16.3_ChristinaDallas3.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Christina Dallas ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD1_Initiate.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Initiate</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD2_Sorer_Mystica.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of Sorer Mystica</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD3_Sophia.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of Sophia</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD4_Sophia_Spinning.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of Sophia Spinning a Star</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD5_Unification_of_Opposites.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Unification of Opposites</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD6_Gatekeeper.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Gatekeeper</i>, 2015<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD7_Secret_Sigil.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Secret Sigil</i>, 2015<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD8_Portrait_of_the_Astrologer.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Astrologer</i>, 2015<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD9_Daughter_of_Regeneration.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of the Daughter of Regeneration</i>, 2014<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Christina Dallas/CD10_Portrait_of_Teen_Angel.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christina Dallas<br>
+<i>Portrait of Teen Angel</i>, 2013<br>
+								Archival pigment print<br>
+								Courtesy of the artist	
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Eliza Naranjo Morse">
+					<image>
+						<source>/16/16.3/16.3_Eliza Naranjo Morse/Alcoves16.3_ElizaNaranjoMorse.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Eliza Naranjo Morse ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Eliza Naranjo Morse/ENM1_The Space Between.jpg </source>
+						<caption>
+							<![CDATA[  
+								Eliza Naranjo Morse<br>
+<i>The Space Between, from Universalies</i>, 2016<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Heidi Pollard">
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/Alcoves16.3_HeidiPollard1.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Heidi Pollard ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/Alcoves16.3_HeidiPollard2.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Heidi Pollard ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/Alcoves16.3_HeidiPollard3.jpg</source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Heidi Pollard ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/Alcoves16.3_HeidiPollard4.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Heidi Pollard ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP1_Burgeon.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Burgeon</i>, 2016<br>
+								Oil on canvas<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP2_Pearl Diver.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Pearl Diver</i>, 2016<br>
+								Oil on canvas<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP3_Ants.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Ants</i>, 2016<br>
+								Oil on canvas over board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP4_For Berenices Hair.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>For Bernice's Hair</i>, 2014<br>
+								Oil on wood<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP5_Diamond Mind Highway.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Diamond Mind Highway</i>, 2016<br>
+								Oil on canvas over board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP6_Ear.jpg</source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Ear</i>, 2016<br>
+								Oil on canvas over board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP7_Blue Mouth.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Blue Mouth</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP8_Lure.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Lure</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP9_House.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>House</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP10_Big Hand.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Big Hand</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP11_Nursery.jpg</source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Nursery</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP12_Wet Morning.jpg </source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Wet Morning</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP13_Reef People.jpg</source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Reef People</i>, 2015<br>
+								Gouache on shaped rag board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Heidi Pollard/HP14_Ladder.jpg</source>
+						<caption>
+							<![CDATA[  
+								Heidi Pollard<br>
+<i>Ladder</i>, 2016<br>
+								Oil on canvas over board<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Tom Joyce">
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/Alcoves16.3_TomJoyce(over)1.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Tom Joyce ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/Alcoves16.3_TomJoyce(over)2.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Tom Joyce ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/Alcoves16.3_TomJoyce1.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Tom Joyce ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/Alcoves16.3_TomJoyce2.jpg </source>
+						<caption><![CDATA[ Alcove 16.3 installation view, Tom Joyce ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ1_Surge_I_II_III.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce (left to right)<br>
+<i>Surge I</i>, 2015<br>
+<i>Surge III</i>, 2015<br>
+<i>Surge II</i>, 2015<br>
+								Forged high carbon steel<br>
+								Image credit:Peter Ogilvie
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ2_Surge_I_II_III.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce (left to right)<br>
+<i>Surge III</i>, 2015<br>
+<i>Surge I</i>, 2015<br>
+<i>Surge II</i>, 2015<br> 
+								Forged high carbon steel<br>
+								Image credit:Peter Ogilvie
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ3_Surge_detail.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Surge Series</i>, 2015<br>
+								Detail view<br>
+								Forged high carbon steel<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ4_Well I.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Well I</i>, 2016 (edition 1/5)<br>
+								Dye infused photograph on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ5_Well II.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Well II</i>, 2016 (edition 1/5)<br>
+								Dye infused photograph on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ6_Well III.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Well III</i>, 2016 (edition 1/5)<br>
+								Dye infused photograph on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ7_Well IV.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Well IV</i>, 2016 (edition 1/5)<br>
+								Dye infused photograph on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ8_Well V.jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Well V</i>, 2016 (edition 1/5)<br>
+								Dye infused photograph on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ9_Penumbra XX .jpg</source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Penumbra XX</i>, 2015<br>
+								Charred drawing on wood fiber<br>
+								Courtesy of the artist and James Kelly Contemporary
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.3/16.3_Tom Joyce/TJ10_Penumbra IX .jpg </source>
+						<caption>
+							<![CDATA[  
+								Tom Joyce<br>
+<i>Penumbra IX</i>, 2006<br>
+								Charred drawing on wood fiber<br>
+								Courtesy of the artist and James Kelly Contemporary
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.4" dates="">
+			<installation>
+				<image>
+					<source>/16/16.4/Alcoves16.4_overview1(s).jpeg </source>
+					<caption><![CDATA[ Alcove 16.4 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.4/Alcoves16.4_overview2.jpg </source>
+					<caption><![CDATA[ Alcove 16.4 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.4/Alcoves16.4_overview3.jpg </source>
+					<caption><![CDATA[ Alcove 16.4 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.4/Alcoves16.4_overview4.jpg </source>
+					<caption><![CDATA[ Alcove 16.4 installation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="John Vokoun">
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/Alcoves16.4_JohnVokoun1.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, John Vokoun ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/Alcoves16.4_JohnVokoun2.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, John Vokoun ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/Alcoves16.4_JohnVokoun3.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, John Vokoune ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/JV1_Automorphic Form.jpg </source>
+						<caption>
+							<![CDATA[  
+								John Vokoun<br>
+<i>Automorphic Form</i>, 2016<br> 
+								Laser cut acrylic paint, birch, masonite<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/JV2_Turing Biomorphism.jpg</source>
+						<caption>
+							<![CDATA[  
+								John Vokoun<br>
+<i>Turing's Biomorphism</i>, 2016<br> 
+								Silk screen on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/JV3_Wormfield Distortion.jpg </source>
+						<caption>
+							<![CDATA[  
+								John Vokoun<br>
+<i>Wormfield Distortion</i>, 2016<br> 
+								Computer art, dye-sublimation on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/JV4_Sediment Distortion.jpg </source>
+						<caption>
+							<![CDATA[  
+								John Vokoun<br>
+<i>Sediment Distortion</i>, 2015 <br> 
+								Computer art, dye-sublimation on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_John Vokoun/JV5_Weirdness Pixel Bliss Grid.jpg </source>
+						<caption>
+							<![CDATA[  
+								John Vokoun<br>
+<i>Weirdness Pixel Bliss Grid</i>, 2016<br> 
+								Arylic paint and silk screen on aluminum<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Michael Namingha">
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/Alcoves16.4_MichaelNamingha1.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Michael Namingha ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/Alcoves16.4_MichaelNamingha2.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Michael Namingha ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/Alcoves16.4_MichaelNamingha3.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Michael Namingha ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN1_Dope.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Dope</i>, 2016<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN2_Fresh.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Fresh</i>, 2016<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN3_Indian Burn.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Indian Burn</i>, 2015<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN4_Indian Giver.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Indian Giver</i>, 2015<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN5_Lust.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Lust</i>, 2016<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN6_No.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>No</i>, 2015<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN7_Sweet.jpg	 </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Sweet</i>, 2015<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN8_Love.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Love</i>, 2016<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Michael Namingha/MN9_Yes.jpg </source>
+						<caption>
+							<![CDATA[  
+								Michael Namingha<br>
+<i>Yes</i>, 2015<br>
+								Archival pigment print on Hahnemuhle Paper Edition of 3<br>
+								Courtesy of the artist and Niman Fine Art
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Robert Drummond">
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/Alcoves16.4_RobertDrummond1.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Robert Drummond ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/Alcoves16.4_RobertDrummond2.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Robert Drummond ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/Alcoves16.4_RobertDrummond3.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Robert Drummond ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/Alcoves16.4_RobertDrummond4.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Robert Drummond ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/RD1_Radio Tube Brotherhood_2011.jpg </source>
+						<caption>
+							<![CDATA[  
+								Robert Drummond<br>
+<i>Radio Tube Brotherhood</i>, 2011<br>
+								Cast glass, embedded LCD video, stereo audio<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/RD2_Hemingray 17_2012.jpg </source>
+						<caption>
+							<![CDATA[  
+								Robert Drummond<br>
+<i>Hemingray-17</i>, 2012<br>
+								Cast glass, embedded LCD video, stereo audio<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/RD3_Timekeeper in Green_2011.jpg </source>
+						<caption>
+							<![CDATA[  
+								Robert Drummond<br>
+<i>Timekeeper in Green</i>, 2011<br>
+								Cast glass, embedded LCD video, stereo audio<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Robert Drummond/RD4_District_2012.jpg </source>
+						<caption>
+							<![CDATA[  
+								Robert Drummond<br>
+<i>District</i>, 2012<br>
+								Interactive video, suspended acrylic, 3D wall mount camera, projector, CPU<br>
+								Courtesy of the artist 
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Sally Anderson">
+					<image>
+						<source>/16/16.4/16.4_Sally Anderson/Alcoves16.4_SallyAnderson.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sally Anderson ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sally Anderson/SA1_Purple Royal.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sally Anderson<br>
+<i>Purple Royal</i>, 2015<br>
+								Ceramic with automotive paint<br>
+								Image Credit - Courtesy of Addison Doty
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sally Anderson/SA2-Orange Wave.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sally Anderson<br>
+<i>Orange Wave</i>, 2015<br>
+								Ceramic with automotive paint<br>
+								Image Credit - Courtesy of Addison Doty
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sally Anderson/SA3-Smooth Passage.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sally Anderson<br>
+<i>Smooth Passage</i>, 2015<br>
+								Ceramic with automotive paint<br>
+								Image Credit - Courtesy of Addison Doty
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sally Anderson/SA4_Night Passage.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sally Anderson<br>
+<i>Night Passage</i>, 2015<br>
+								Ceramic with automotive paint<br>
+								Image Credit - Courtesy of Addison Doty
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Sheri Crider">
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/Alcoves16.4_SheriCrider1.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sheri Crider ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/Alcoves16.4_SheriCrider2.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sheri Crider ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/Alcoves16.4_SheriCrider3.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sheri Crider ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/Alcoves16.4_SheriCrider4.jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sheri Crider ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/Alcoves16.4_SheriCrider5(over).jpg </source>
+						<caption><![CDATA[ Alcove 16.4 installation view, Sheri Crider ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC1_Georgiadome.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>Georgiadome/Mercedes-Benz Stadium</i>, 2016<br>
+								Gouache on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC2_Yankee Stadium.jpg</source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>Yankee Stadium</i>, 2016<br>
+								Gouache on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC3_Meadowlands.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>Meadowlands/MetLife Stadium</i>, 2015<br>
+								Gouache on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC4_Barclays.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>Barclays Center</i>, 2016<br>
+								Gouache on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC5_Shea_Citifield.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>Shea Stadium/CitiField</i>, 2016<br>
+								Gouache on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.4/16.4_Sheri Crider/SC7_N35W106.jpg </source>
+						<caption>
+							<![CDATA[  
+								Sheri Crider<br>
+<i>N35°, W106°</i>, 2016<br>
+								Discarded hollow core doors, adhesive<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.5" dates="">
+			<installation>
+				<image>
+					<source>/16/16.5/Alcoves16.5_overview1.jpg </source>
+					<caption><![CDATA[ Alcove 16.5 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.5/Alcoves16.5_overiview2.jpg </source>
+					<caption><![CDATA[ Alcove 16.5 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.5/Alcoves16.5_overview3.jpg </source>
+					<caption><![CDATA[ Alcove 16.5 installation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Mira Burack">
+					<image>
+						<source>/16/16.5/16.5_Burack/Alcoves16.5_MiraBurack1.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Mira Burack ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Burack/Alcoves16.5_MiraBurack2.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Mira Burack ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Burack/Mira Burack-LaundryPile1.jpg </source>
+						<caption>
+							<![CDATA[  
+								Mira Burack<br>
+<i>Laundry Piles I</i>, 2010<br>
+								Collage of pigment prints<br>
+								Courtesy of the artist<br>
+								Photo credit: Robert Hensleigh
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Burack/Mira Burack-LaundryPile2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Mira Burack<br>
+<i>Laundry Piles II</i>, 2010<br>
+								Collage of pigment prints<br>
+								Courtesy of the artist<br>
+								Photo credit: Robert Hensleigh
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Burack/Mira Burack-SleepCycle2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Mira Burack<br>
+<i>Sleep Cycle II</i>, 2009<br>
+								Collage of pigment prints, paint, fabric, wood<br>
+								Courtesy of the artist and Central Features Contemporary Art<br>
+								Photo credit: Robert Hensleigh
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Kelly Eckel">
+					<image>
+						<source>/16/16.5/16.5_Eckel/Alcoves16.5_KellyEckel1.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Kelly Eckel ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Alcoves16.5_KellyEckel2.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Kelly Eckel ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel_Morphogenic(1)2015.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2015<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(2)2015.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2015<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(3)2015.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2015<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(5)2014.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2014<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(6)2015.jpg</source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2014<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(7)2014.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2014<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Eckel/Kelly Eckel-Morphogenic(10)2014.jpg </source>
+						<caption>
+							<![CDATA[  
+								Kelly Eckel<br>
+<i>Morphogenic Series</i>, 2014<br>
+								Photo polymer etching<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Shaun Gilmore">
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Alcoves16.5_ShaunGilmore1.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Shaun Gilmore ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Alcoves16.5_ShaunGilmore2.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Shaun Gilmore ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Alcoves16.5_ShaunGilmore3.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Shaun Gilmore ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-CraterPeak.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Crater Peak in the Distance</i>, 2016<br>
+								Acrylic and archival ink on vellum<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-BlueYonder.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Branching Out (wild blue yonder)</i>, 2016<br>
+								Wire and papier mache<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-HangUp.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>The Hang Up in a Hurricanee</i>, 2014-2016 (ongoing)<br>
+								Wire and papier mache<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-Beartooth.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Beartooth Formation at the Gallatin River</i>, 2016<br>
+								Acrylic, archival ink and collage on mylar vellum<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-SharpEdges.jpg</source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>The Sharp Edges Overlooking Lake Meade</i>, 2016<br>
+								Acrylic, archival ink and collage on mylar vellum<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore_Snow Curtain.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Snow Curtain</i>, 2014-2016 (ongoing)<br>
+								Collage, laminations, acrylic, mixed media<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-SeeingRed.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Branching Out (seeing red)</i>, 2016<br>
+								Wire and papier mache<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Gilmore/Shaun Gilmore-AlwaysGreener.jpg </source>
+						<caption>
+							<![CDATA[  
+								Shaun Gilmore<br>
+<i>Branching Out (always greener)</i>, 2016<br>
+								Wire and papier mache<br>
+								Courtesy of the artist<br>
+								Photo credit: Nick Merrick
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Dara Mark">
+					<image>
+						<source>/16/16.5/16.5_Mark/Alcoves16.5_DaraMark1.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Dara Mark ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Alcoves16.5_DaraMark2.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Dara Mark ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Alcoves16.5_DaraMark3.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Dara Mark ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#7.jpg </source>
+						<caption>
+							<![CDATA[  
+								Dara Mark<br>
+<i>Elegy #7/Angel of Absence</i>, 2014<br>
+								Watercolor on translucent polypropylene<br>
+								Courtesy of the artist<br>
+								Photo credit: James Hart
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#15.jpg </source>
+						<caption>
+							<![CDATA[  
+								Dara Mark<br>
+<i>Elegy #15</i>, 2014<br>
+								Watercolor on translucent polypropylene<br>
+								Courtesy of the artist<br>
+								Photo credit: James Hart
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#19.jpg </source>
+						<caption>
+							<![CDATA[  
+								Dara Mark<br>
+<i>Elegy #19</i>, 2014<br>
+								Watercolor on translucent polypropylene<br>
+								Courtesy of the artist<br>
+								Photo credit: James Hart
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Mark/Mark-Elegy#24.jpg </source>
+						<caption>
+							<![CDATA[  
+								Dara Mark<br>
+<i>Elegy #24</i>, 2015<br>
+								Watercolor on translucent polypropylene<br>
+								Courtesy of the artist<br>
+								Photo credit: James Hart
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Signe Stuart">
+					<image>
+						<source>/16/16.5/16.5_Stuart/Alcoves16.5_SigneStuart1.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Signe Stuart ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Alcoves16.5_SigneStuart2.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Signe Stuart ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Alcoves16.5_SigneStuart3.jpg </source>
+						<caption><![CDATA[ Alcove 16.5 installation view, Signe Stuart ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Signe Stuart-Bridges1.jpg </source>
+						<caption>
+							<![CDATA[  
+								Signe Stuart<br>
+<i>Bridges 1</i>, 2016<br>
+								Chinese unryu paper with acrylic yellow iron oxide<br>
+								Courtesy of the artist and William Siegal Gallery 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Signe Stuart-Bridges2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Signe Stuart<br>
+<i>Bridges 2</i>, 2016<br>
+								Chinese unryu paper with acrylic yellow iron oxide<br>
+								Courtesy of the artist and William Siegal Gallery 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Signe Stuart-Strux1.jpg </source>
+						<caption>
+							<![CDATA[  
+								Signe Stuart<br>
+<i>Strux 1</i>, 2016<br>
+								Chinese unryu paper with acrylic<br>
+								Courtesy of the artist and William Siegal Gallery 
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.5/16.5_Stuart/Signe Stuart-Strux2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Signe Stuart<br>
+<i>Strux 2</i>, 2016<br>
+								Chinese unryu paper with acrylic yellow oxide<br>
+								Courtesy of the artist and William Siegal Gallery 
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.6" dates="">
+			<installation>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview1.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview2.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview3.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview4.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview5.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview6.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview7.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.6/Alcoves16.6_overview8.jpg </source>
+					<caption><![CDATA[ Alcove 16.6 installation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Chris Collins">
+					<image>
+						<source>/16/16.6/16.6_Collins/Alcoves 16.6_ChrisCollins1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Chris Collins ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/Alcoves 16.6_ChrisCollins2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Chris Collins ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/Collins_artifact pair.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Artifact Pair</i>, 2015<br> 
+								Found objects with 23k gold leaf<br>
+								Courtesy of the artist and David Richard Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/drum 2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Drums # 2</i>, 2016<br> 
+								Found object and copper leaf<br>
+								Courtesy of the artist and David Richard Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/CollinsC_depreciate5_2015_FoundObjectAnd23kGold_4x3x1_HR.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Depreciate</i>, 2015<br>
+								Found object with 23k gold leaf<br>
+								Courtesy of the artist and David Richard Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/excavate 2.jpg</source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Excavate #2</i>, 2016<br> 
+								Found object with copper leaf<br>
+								Courtesy of the artist and David Richard Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/discard 3.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Discard Series</i>, 2016<br>
+<i>Discard #3</i>, 2015<br>
+								Found object + copper
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/discard 12 .jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Discard # 12</i>, 2016<br>
+								Copper on steel
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/discard13.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Discard 13</i>, 2016<br>
+								Copper on steel
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/discard14.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Discard 14</i>, 2016<br>
+								Copper on steel<br>
+								Installation, found objects and copper leaf<br>
+								Courtesy of the artist and David Richard Gallery
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Collins/tank 1.jpg </source>
+						<caption>
+							<![CDATA[  
+								Chris Collins<br>
+<i>Tank #1</i>, 2016<br>
+								Found object + copper leaf
+							]]>
+						</caption>
+					</image>
+				</artist>
+
+				<artist name="Christy Georg">
+					<image>
+						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
+					</image>
+					<image>
+						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
+					</image>
+					<image>
+						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg3.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
+					</image>
+					<image>
+						<source> 16/16.6/16.6_Georg/History Lesson_duo_hi res.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christy Georg<br>
+<i>History Lesson</i>, 2015<br>
+								Steel, machine parts, wood, velvet, vinyl record “The Best of the Last 50 Years”<br>
+								Image courtesy of Koen Dijkman
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> 16/16.6/16.6_Georg/Wait_Hate.jpg </source>
+						<source> 16/16.6/16.6_Georg/Wait_Hate_detail 2.jpg </source>
+						<source> 16/16.6/16.6_Georg/Wait_Hate_detail.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christy Georg<br>
+<iWait/Hate (for Naumann)</i>, 2000<br>
+								Steel, wood, paper, machine parts, sound
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Jami Porter Lara">
+					<image>
+						<source>/16/16.6/16.6_Porter Lara/Alcoves 16.6_JamiPorterLara2.jpg  </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Jami Porter Lara ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Porter LaraAlcoves 16.6_JamiPorterLara1.jpg/</source>
+						<caption>
+							<![CDATA[  
+								Jami Porter Lara<br>
+<i>108 Repetitions</i>, 2016<br>
+								Pit-fired clay<br>
+								Courtesy of the Artist and Central Features Contemporary Art
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Valerie Roybal">
+					<image>
+						<source>/16/16.6/16.6_Roybal/Alcoves 16.6_ValerieRoybal1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Valerie Roybal ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Roybal/Alcoves 16.6_ValerieRoybal2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Valerie Roybal ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Roybal/valerieroybal-lifeonmars.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>Life on Mars</i>, 2016<br>
+								Paper collage and gouache on clayboard<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Roybal/valerieroybal-allthatis.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>All That Is</i>, 2016<br>
+								Paper collage, pencil and gouache on clayboard<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Roybal/valerieroybal-allyourmiracles2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>All Your Miracles 2</i>, 2016<br>
+								Vintage paper collage, pencil and gouache on clayboard<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Roybal/valerieroybal-saturnman.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>Saturn Man</i>, 2016<br>
+								Paper collage<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Jo Whaley">
+					<image>
+						<source>/16/16.6/16.6_Whaley/Alcoves 16.6_JoWhaley1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Jo Whaley ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Whaley/Alcoves 16.6_JoWhaley2.jpg</source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Jo Whaley ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Whaley/Alcoves 16.6_JoWhaley3.jpg</source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Jo Whaley ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.6/16.6_Whaley/Alcoves 16.6_JoWhaley3.jpg</source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Jo Whaley ]]></caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+		<exhibit id="16.7" dates="">
+			<installation>
+				<image>
+					<source>/16/16.7/Alcoves16.7_overview1.jpg </source>
+					<caption><![CDATA[ Alcove 16.7 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.7/Alcoves16.7_overview2.jpg </source>
+					<caption><![CDATA[ Alcove 16.7 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.7/Alcoves16.7_overview3.jpg</source>
+					<caption><![CDATA[ Alcove 16.7 installation view ]]></caption>
+				</image>
+				<image>
+					<source>/16/16.7/Alcoves16.7_overview4.jpg</source>
+					<caption><![CDATA[ Alcove 16.7 installation view ]]></caption>
+				</image>
+			</installation>
+			<artists>
+				<artist name="Ciel Bergman">
+					<image>
+						<source>/16/16.7/16.7 Bergman/Alcoves16.7_CielBergman1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ciel Bergman ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Bergman/Alcoves16.7_CielBergman2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ciel Bergman ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Bergman/Alcoves16.7_CielBergman3.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ciel Bergman ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Bergman/Bergman-Dumping Animal Blood into the Sea IMG_6503.JPG </source>
+						<caption>
+							<![CDATA[  
+								Ciel Bergman<br>
+<i>Dumping Animal Blood into the Sea</i>, 2015<br>
+<i>Helio Series, Untitled #1</i><br>
+								Oil on canvas
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Bergman/Helios SeriesWords Get Thick with Unmeaning.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>Akbar</i>, 2014<br>
+<i>Words Get Thick with Unmeaning</i>, 2015<br>
+								Oil on canvas<br>
+								Courtesy of Bridgit Koller and braveARTconsulting
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Bergman/Bergman - Helios Untitled #2.jpg </source>
+						<caption>
+							<![CDATA[  
+								Valerie Roybal<br>
+<i>Helios Series, Untitled #2</i>, 2015<br>
+								Oil on canvas<br>
+								Courtesy of Bridgit Koller and braveARTconsulting
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Edgar">
+					<image>
+						<source>/16/16.7/16.7 Edgar/Alcoves16.7_JessikaEdgar2.jpg </source>
+						<caption>
+							<![CDATA[ 
+								Jessika Edgar<br>
+<i>Bloom</i>, 2017<br>
+								From the series <i>#TheStruggleIsReal (All my girls do yoga)</i><br>
+								Ceramic
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Edgar/Alcoves16.7_JessikaEdgar1.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Edgar/JessikaEdgar_CurlyQ-1.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+				</artist>
+				<artist name="Ilona Pachler">
+					<image>
+						<source>/16/16.7/16.7 Pachler/Alcoves16.7_IlonaPachler1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ilona Pachler ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/Alcoves16.7_IlonaPachler2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ilona Pachler ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/Alcoves16.7_IlonaPachler3.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Ilona Pachler ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#1ilona_pachler_crimson_pearl.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Crimson Pearl</i>, 2016<br>
+								Serigraph on Plexiglas<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#2ilona_pachler_golden_gaze.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Golden Gaze</i>, 2017<br>
+								Serigraph on Plexiglas<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#3ilona_pachler_caput_mortuum.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Caput Mortuum</i>, 2017<br>
+								Serigraph on Plexiglas<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#4ilona_pachler_reflector_12.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Reflector 12</i>, 2014<br>
+								Cedar and mirror<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#5ilona_pachler_reflector_16.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Reflector 16</i>, 2014<br>
+								Cedar and mirror<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#6ilona_pachler_reflector_21.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>CReflector 21</i>, 2014<br>
+								Cedar and mirror<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#7ilona_pachler_blue_hudson.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Blue Hudson</i>, 2016<br>
+								Screen print on steel<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#9ilona_pachler_silo_hudson.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Silo</i>, 2016<br>
+								Serigraph<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Pachler/#8ilona_pachler_tappan_zee.jpg </source>
+						<caption>
+							<![CDATA[  	
+								Ilona Pachler<br>
+<i>Tappan Zee</i>, 2016<br>
+								 Serigraph<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+				<artist name="Porter">
+					<image>
+						<source>/16/16.7/16.7 Porter/Alcoves16.7_ClaytonPorter1.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Alcoves16.7_ClaytonPorter2.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Alcoves16.7_ClaytonPorter3.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 10 22.5 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 11 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 12 30 x 22.5.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 13 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 14 22.5 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 15 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 16 30 x 22.5.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 17 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 18 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 19 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 20 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 21 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 22 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 23 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 24 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 25 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 26 30 x 22.5.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 27 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 28 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 29.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 30 30 x 30.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Porter/Untitled Bronc Rider 31 detail.jpg </source>
+						<caption><![CDATA[  ]]></caption>
+					</image>
+				</artist>
+				<artist name="Edie Tsong">
+					<image>
+						<source>/16/16.7/16.7 Tsong/Alcoves16.7_EdieTsong1.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Edie Tsong ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Tsong/Alcoves16.7_EdieTsong2.jpg </source>
+						<caption><![CDATA[ Alcove 16.6 installation view, Edie Tsong ]]></caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Tsong/Alcoves16.7_EdieTsong3.jpg </source>
+						<caption>
+							<![CDATA[
+								Edie Tsong<br>
+<i>Scattered Memory</i>, 2005<br>
+								Women’s Studio Workshop, Edition of 50 Letterpress and screen print accordion-fold book<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Tsong/ETsong 2014 Santa Fe.jpg </source>
+						<caption>
+							<![CDATA[  
+								Edie Tsong<br>
+<i>2014  Santa Fe (Mother and Daughter)</i>, 2015<br>
+								Ink on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source>/16/16.7/16.7 Tsong/ETsong 2011 Father and Child det.jpg </source>
+						<caption>
+							<![CDATA[  
+								Edie Tsong<br>
+<i>2011 Santa Fe (Father and Daughter)</i>, 2014<br>
+								Ink on paper<br>
+								Courtesy of the artist
+							]]>
+						</caption>
+					</image>
+				</artist>
+			</artists>
+		</exhibit>
+	</exhibits>
+</alcoves>
