@@ -11,6 +11,9 @@ footer .logo{
     height: 55px;
          
 }
+.card-img-top {
+    height: 200px;
+}
 
 .gallery img{
     height: 200px;

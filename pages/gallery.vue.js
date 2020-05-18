@@ -1,17 +1,10 @@
-// TODO: once we have the var we can access it in the template ,
-//       so we can then make a template out of the looped data
-// TODO: The data should only show the exhibit number
-// TODO: Make links to gallery so we can load galleries based on
-//       the number that is passed in the url
-// NOTE: Current next function doesn't work, everything else works
-
 var Gallery = {
   data() {
     return {
       exhibit: null,
       alcove: null,
       isLoaded: false,
-      artistFilter: "",
+      artistFilter: "all",
     };
   },
   async created() {

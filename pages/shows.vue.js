@@ -6,13 +6,14 @@ var Shows = {
       <div class="col mb-4" >
         <div class="card border-light bg-light">
           <div style="background-color: #404c5f;">
-            <img
+            <div class="card-img-top d-flex align-items-center pl-3 pr-3">
+                <img
               src="assets/logos/alcoves12_logo.png"
-              class="card-img-top text-center"
+              class="img-fluid"
               alt="..."
             />
+            </div>
           </div>
-
           <div class="card-body">
             <h5 class="card-title">Alcoves 2012</h5>
             <p class="card-text">
@@ -27,11 +28,13 @@ var Shows = {
       <div class="col mb-4" >
         <div class="card border-light bg-light">
           <div style="background-color: #ee622d;">
-            <img
-              src="assets/logos/Alcoves16_logo.png"
-              class="card-img-top"
+            <div class="card-img-top d-flex align-items-center">
+                <img
+              src="assets/logos/alcoves16_logo.png"
+              class="img-fluid"
               alt="..."
             />
+            </div>
           </div>
           <div class="card-body">
             <h5 class="card-title">Alcoves 2016</h5>
@@ -47,11 +50,13 @@ var Shows = {
       <div class="col mb-4" >
         <div class="card border-light bg-light">
           <div style="background-color: #a1ba3b;">
-            <img
-              src="assets/logos/Alcoves20_logo.png"
-              class="card-img-top"
+            <div class="card-img-top d-flex align-items-center">
+                <img
+              src="assets/logos/alcoves20_logo.png"
+              class="img-fluid"
               alt="..."
             />
+            </div>
           </div>
           <div class="card-body">
             <h5 class="card-title">Alcoves 2020</h5>
