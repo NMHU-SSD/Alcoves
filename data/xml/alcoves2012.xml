@@ -3,7 +3,7 @@
 	<title>Alcoves 2012</title>
 	<description>Curated by New Mexico Museum of Art curator of special projects, Merry Scully, Alcove 12.0 included the work of 45 artists from across the state of New Mexico. Five new artists were exhibited every five weeks from March 2012 through April 2013 in the bays of our historic building.</description>
 	<exhibits>
-		<exhibit id="12.1" dates="Mar. 23 - Apr. 29, 2012">
+		<exhibit id="12.1" dates="March 23 – April 29, 2012">
 
 			<installation>
 				<image>
@@ -131,7 +131,7 @@
 						<caption><![CDATA[Alcove 12.1, Jane Lackey during installation ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/lackey/AlcoveLackey_1.jpg</source>
+						<source>/12/12.1/lackey/Alcove.Lackey_1.jpg</source>
 						<caption><![CDATA[Alcove 12.1 installation view, Jane Lackey ]]></caption>
 					</image>
 					<image>
@@ -384,7 +384,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="12.2" dates="May 4 - June 6, 2012">
+		<exhibit id="12.2" dates="May 4 – June 10, 2012">
 
 			<installation>
 				<image>
@@ -651,7 +651,7 @@
 
 		</exhibit>
 
-		<exhibit id="12.3" dates="June 15 - July 29, 2012">
+		<exhibit id="12.3" dates="June 15 – July 29, 2012">
 
 			<installation>
 				<image>
@@ -714,11 +714,11 @@
 				</artist>
 				<artist name="Michael Edge">
 					<image>
-						<source>/12/12.3/alcove_edge.jpg</source>
+						<source>/12/12.3/edge/alcove_edge.jpg</source>
 						<caption><![CDATA[ Alcove 12.3 installation view, Michael Edge ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.3/edge_painting1.jpg</source>
+						<source>/12/12.3/edge/edge_painting1.jpg</source>
 						<caption><![CDATA[
 							Michael Edge<br>
 <i>#1 Black</i>, 2011<br>
@@ -727,7 +727,7 @@
 							 ]]>						</caption>
 					</image>
 					<image>
-						<source>/12/12.3/edge_painting19.jpg</source>
+						<source>/12/12.3/edge/edge_painting19.jpg</source>
 						<caption><![CDATA[
 							Michael Edge<br>
 <i>#19 Black</i>, 2010<br>
@@ -736,7 +736,7 @@
 							 ]]>						</caption>
 					</image>
 					<image>
-						<source>/12/12.3/edge_painting28.jpg</source>
+						<source>/12/12.3/edge/edge_painting28.jpg</source>
 						<caption><![CDATA[
 							Michael Edge<br>
 <i>#28 White</i>, 2010<br>
@@ -1007,7 +1007,7 @@
 		</exhibit>
 
 
-		<exhibit id="12.4" dates="Aug. 4 - Sept. 9, 2012">
+		<exhibit id="12.4" dates="August 3 – September 9, 2012">
 
 			<installation>
 				<image>
@@ -1279,7 +1279,7 @@
 			</artists>
 		</exhibit>
 
-		<exhibit id="12.5" dates="Sept. 14 - Oct. 21, 2012">
+		<exhibit id="12.5" dates="September 14 – October 21, 2012">
 
 			<installation>
 				<image>
@@ -1527,7 +1527,7 @@
 			</artists>
 		</exhibit>
 
-		<exhibit id="12.6" dates="Oct. 26 - Dec. 2, 2012">
+		<exhibit id="12.6" dates="October 26 – December 2, 2012">
 
 			<installation>
 				<image>
@@ -1883,7 +1883,7 @@
 			</artists>
 		</exhibit>
 
-		<exhibit id="12.7" dates="Dec. 7 - Jan. 13, 2013">
+		<exhibit id="12.7" dates="December 7, 2012 - January 13, 2013">
 
 			<installation>
 				<image>
@@ -2186,7 +2186,7 @@
 			</artists>
 		</exhibit>
 
-		<exhibit id="12.8" dates="Jan. 18 - Feb. 24, 2013">
+		<exhibit id="12.8" dates="January 18 – February 24, 2013">
 
 			<installation>
 				<image>
@@ -2248,7 +2248,7 @@
 							]]>						</caption>
 					</image>
 					<image>
-						<source>/12/12.8/gonzalez/alcove_gonzalez_install-2.jpg</source>
+						<source>/12/12.8/gonzalez/Gonzalez_install-2.jpg</source>
 						<caption><![CDATA[ 
 							Alcove 12.8 installation view<br>
 							Cristina González during installation of <i>Nepantla</i> 
@@ -2515,7 +2515,7 @@
 		</exhibit>
 
 
-		<exhibit id="12.9" dates="Mar. 1 - Apr. 7, 2013">
+		<exhibit id="12.9" dates="March 1 – April 5, 2013">
 
 			<installation>
 				<image>
@@ -2606,7 +2606,7 @@
 						<caption><![CDATA[ Alcove 12.9 installation view<br>Teri Greeves ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.9/greeves/Alcove12.9_Greeves_gallery.jpg</source>
+						<source>/12/12.9/greeves/greeves_gallery.JPG</source>
 						<caption><![CDATA[ Alcove 12.9 installation view<br>Teri Greeves ]]></caption>
 					</image>
 					<image>

@@ -3,7 +3,7 @@
     <title>About</title>
     <description>Description for 2020</description>
     <exhibits>
-        <exhibit id="20.1" dates="">
+        <exhibit id="20.1" dates="August 10 – October 13, 2019">
             <installation>
                 <image>
                     <source>/20/20.1/Alcoves20.1_general.jpg </source>
@@ -49,7 +49,7 @@
                         <caption><![CDATA[ Alcove 20.1 installation view, Dan Namingha ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING # 8 (XLSZ).jpg </source>
+                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING 8 (XLSZ).jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Dan Namingha<br>
@@ -60,7 +60,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING #27-XL-FORAD.jpg </source>
+                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING 27-XL-FORAD.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Dan Namingha<br>
@@ -71,7 +71,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING #22-XL-FORAD.jpg </source>
+                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING 22-XL-FORAD.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Dan Namingha<br>
@@ -82,7 +82,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING #28-XL-FORAD.jpg </source>
+                        <source> /20/20.1/20.1_DanNamingha/Namingha. POINTS CONNECTING 28-XL-FORAD.jpg</source>
                         <caption>
                             <![CDATA[ 
                                 Dan Namingha<br>
@@ -153,7 +153,7 @@
                         <caption>
                             <![CDATA[ 
                                 Emi Ozawa<br>
-                                <i>Sounds Like A Chord</i>, 2016<br>
+<i>Sounds Like A Chord</i>, 2016<br>
                                 Acrylic on poplar<br>
                                 Courtesy of Richard Levy Gallery<br>
                                 Insurance value: $12,500
@@ -165,7 +165,7 @@
                         <caption>
                             <![CDATA[ 
                                 Emi Ozawa<br>
-                                <i>Rain after Rain</i>, 2019<br>
+<i>Rain after Rain</i>, 2019<br>
                                 Acrylic on poplar<br>
                                 Courtesy of Richard Levy Gallery<br>
                                 Insurance value: $14,000
@@ -177,7 +177,7 @@
                         <caption>
                             <![CDATA[ 
                                 Emi Ozawa<br>
-                                <i>Red I Like</i>, 2017<br>
+<i>Red I Like</i>, 2017<br>
                                 Acrylic on poplar<br>
                                 Courtesy of Richard Levy Gallery<br>
                                 Insurance value: $12,000
@@ -195,7 +195,7 @@
                         <caption><![CDATA[ Alcove 20.1 installation view, Mokha Laget ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.1/20.1_MokhaLaget/Laget.Borderline #2 2.jpg </source>
+                        <source>/20/20.1/20.1_MokhaLaget/Laget.Borderline 2 2.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Mokha Laget<br>
@@ -248,7 +248,7 @@
                             ]]>
                         </caption>
                     </image>
-                    <!-- Image Need another that share the same caption -->
+
                     <image>
                         <source>/20/20.1/20.1_StuartArdens/Red X Truck.JPG </source>
                         <caption>
@@ -264,11 +264,13 @@
                 </artist>
             </artists>
         </exhibit>
-        <exhibit id="20.2" dates="">
+        <exhibit id="20.2" dates="October 19, 2019- February 9, 2020 ">
             <installation>
                 <image>
                     <source>/20/20.2/Alcoves20.2_General.jpg </source>
                     <caption><![CDATA[ Alcove 20.2 installation view ]]></caption>
+                </image>
+                <image>
                 </image>
             </installation>
             <artists>
@@ -355,23 +357,23 @@
                 </artist>
                 <artist name="Marietta Patricia Leis">
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/Alcoves20.2_MariettaPatriciaLeis5.jpg </source>
+                        <source>/20/20.2/20.2_MariettaPatriciaLeis/Alcoves20.2_MariettaPatriciaLeis5.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Marietta Patricia Leis ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/Alcoves20.2_MariettaPatriciaLeis4.jpg </source>
+                        <source>/20/20.2/20.2_MariettaPatriciaLeis/Alcoves20.2_MariettaPatriciaLeis4.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Marietta Patricia Leis ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/Alcoves20.2_MariettaPatriciaLeis10.jpg </source>
+                        <source>/20/20.2/20.2_MariettaPatriciaLeis/Alcoves20.2_MariettaPatriciaLeis10.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Marietta Patricia Leis ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/Alcoves20.2_MariettaPatriciaLeis9.jpg </source>
+                        <source>/20/20.2/20.2_MariettaPatriciaLeis/Alcoves20.2_MariettaPatriciaLeis9.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Marietta Patricia Leis ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/Alcoves20.2_MariettaPatriciaLeis7.jpg </source>
+                        <source>/20/20.2/20.2_MariettaPatriciaLeis/Alcoves20.2_MariettaPatriciaLeis7.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Marietta Patricia Leis<br>
@@ -384,23 +386,23 @@
                 </artist>
                 <artist name="Sarah Stolar">
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar1.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar1.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Sarah Stolar ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar2.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar2.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Sarah Stolar ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar3.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar3.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Sarah Stolar ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar4.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Alcoves20.2_SarahStolar4.jpg </source>
                         <caption><![CDATA[ Alcove 20.2 installation view, Sarah Stolar ]]></caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/LucyLippard.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/LucyLippard.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Sarah Stolar<br>
@@ -410,7 +412,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Mother-Daughter.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Mother-Daughter.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Sarah Stolar<br>
@@ -421,7 +423,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/She-Hulk.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/She-Hulk.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Sarah Stolar<br>
@@ -431,7 +433,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/HeatherJanaRioNikesha.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/HeatherJanaRioNikesha.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Sarah Stolar<br>
@@ -441,7 +443,7 @@
                         </caption>
                     </image>
                     <image>
-                        <source>/20/20.2/20.2_HeatherMcGill/20/20.2/20.2_SarahStolar/Kim.jpg </source>
+                        <source>/20/20.2/20.2_SarahStolar/Kim.jpg </source>
                         <caption>
                             <![CDATA[ 
                                 Sarah Stolar<br>

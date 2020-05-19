@@ -1,17 +1,17 @@
 var Shows = {
   template: `
   <div class="container-fluid">
-    <br><br>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 ">
-      <div class="col mb-4" >
+    <br /><br />
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+      <div class="col mb-4">
         <div class="card border-light bg-light">
           <div style="background-color: #404c5f;">
             <div class="card-img-top d-flex align-items-center pl-3 pr-3">
-                <img
-              src="assets/logos/alcoves12_logo.png"
-              class="img-fluid"
-              alt="..."
-            />
+              <img
+                src="assets/logos/alcoves12_logo.png"
+                class="img-fluid"
+                alt="..."
+              />
             </div>
           </div>
           <div class="card-body">
@@ -25,15 +25,15 @@ var Shows = {
           </div>
         </div>
       </div>
-      <div class="col mb-4" >
+      <div class="col mb-4">
         <div class="card border-light bg-light">
           <div style="background-color: #ee622d;">
             <div class="card-img-top d-flex align-items-center">
-                <img
-              src="assets/logos/alcoves16_logo.png"
-              class="img-fluid"
-              alt="..."
-            />
+              <img
+                src="assets/logos/alcoves16_logo.png"
+                class="img-fluid"
+                alt="..."
+              />
             </div>
           </div>
           <div class="card-body">
@@ -47,15 +47,15 @@ var Shows = {
           </div>
         </div>
       </div>
-      <div class="col mb-4" >
+      <div class="col mb-4">
         <div class="card border-light bg-light">
           <div style="background-color: #a1ba3b;">
             <div class="card-img-top d-flex align-items-center">
-                <img
-              src="assets/logos/alcoves20_logo.png"
-              class="img-fluid"
-              alt="..."
-            />
+              <img
+                src="assets/logos/alcoves20_logo.png"
+                class="img-fluid"
+                alt="..."
+              />
             </div>
           </div>
           <div class="card-body">
@@ -70,7 +70,8 @@ var Shows = {
         </div>
       </div>
     </div>
-    <br><br>
-  </div>
+    <br /><br />
+
+   </div>
   `,
 };

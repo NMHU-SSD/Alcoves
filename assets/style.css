@@ -1,32 +1,56 @@
-.logo{
-    width: auto;
-    height: 100px;
-    margin-bottom: 8px;
-    background-repeat: no-repeat;
+.logo {
+  width: auto;
+  height: 100px;
+  margin-bottom: 8px;
+  background-repeat: no-repeat;
 }
-footer{
-    background-color: #e7e7e7;
+footer {
+  background-color: #e7e7e7;
 }
-footer .logo{
-    height: 55px;
-         
+footer .logo {
+  height: 55px;
 }
 .card-img-top {
-    height: 200px;
+  height: 200px;
 }
 
-.gallery img{
-    height: 200px;
-    object-fit: cover;
-    width: 100%;
+.gallery img {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
 }
 
 .gallery figcaption {
-    display: none;
+  display: none;
 }
 
 .pswp img {
-    max-width: none;
-    object-fit: contain;
+  max-width: none;
+  object-fit: contain;
+}
 
+.alcove2012 h1,
+.alcove2012 h2,
+.alcove2012 h3,
+.alcove2012 h4,
+.alcove2012 h5,
+.alcove2012 h6 {
+  color: #6997b3;
+}
+.alcove2016 h1,
+.alcove2016 h2,
+.alcove2016 h3,
+.alcove2016 h4,
+.alcove2016 h5,
+.alcove2016 h6 {
+  color: #9b9286;
+}
+
+.alcove2020 h1,
+.alcove2020 h2,
+.alcove2020 h3,
+.alcove2020 h4,
+.alcove2020 h5,
+.alcove2020 h6 {
+  color: #d5bb27;
 }

@@ -3,7 +3,7 @@
 	<title> About </title>
 	<description> DESCRIPTION </description>
 	<exhibits>
-		<exhibit id="16.1" dates="">
+		<exhibit id="16.1" dates="March 4 – April 24, 2016">
 			<installation>
 				<image>
 					<source>/16/16.1/Alcoves16.1_general1.jpg </source>
@@ -429,7 +429,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.2" dates="">
+		<exhibit id="16.2" dates="April 29 – June 19, 2016">
 			<installation>
 				<image>
 					<source>/16/16.2/Alcoves16.2_B-01Overview.jpg </source>
@@ -758,7 +758,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.2/16.2_Philip Augustin/A9_16-007-09.jpg </source>
+						<source>/16/16.2/16.2_Philip Augustin/PA9_16-007-09.jpg </source>
 						<caption>
 							<![CDATA[ 
 								Philip V. Augustin <br>
@@ -771,11 +771,11 @@
 				</artist>
 				<artist name="Stephen Davis">
 					<image>
-						<source> 16/16.2/16.2_Stephen Davis/Alcoves16.2_StephenDavis.jpg </source>
+						<source> /16/16.2/16.2_Stephen Davis/Alcoves16.2_StephenDavis.jpg </source>
 						<caption><![CDATA[ Alcove 16.1 installation view, Stephen Davis ]]></caption>
 					</image>
 					<image>
-						<source> 16/16.2/16.2_Stephen Davis/Alcoves16.2_StephenDavis.jpg </source>
+						<source> /16/16.2/16.2_Stephen Davis/SD1_Chair_7.jpg </source>
 						<caption>
 							<![CDATA[
 								Stephen Davis<br>
@@ -786,7 +786,7 @@
 						</caption>
 					</image>
 					<image>
-						<source> 16/16.2/16.2_Stephen Davis/SD2_Chair4.jpg </source>
+						<source> /16/16.2/16.2_Stephen Davis/SD2_Chair4.jpg </source>
 						<caption>
 							<![CDATA[
 								Stephen Davis<br>
@@ -797,7 +797,7 @@
 						</caption>
 					</image>
 					<image>
-						<source> 16/16.2/16.2_Stephen Davis/SD3_Cant_Sit_Still.jpg </source>
+						<source> /16/16.2/16.2_Stephen Davis/SD3_Cant_Sit_Still.jpg </source>
 						<caption>
 							<![CDATA[
 								Stephen Davis<br>
@@ -808,7 +808,7 @@
 						</caption>
 					</image>
 					<image>
-						<source> 16/16.2/16.2_Stephen Davis/SD4_Macular_Royale.jpg </source>
+						<source> /16/16.2/16.2_Stephen Davis/SD4_Macular_Royale.jpg </source>
 						<caption>
 							<![CDATA[
 								Stephen Davis<br>
@@ -901,7 +901,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.3" dates="">
+		<exhibit id="16.3" dates="June 24 – August 14, 2016">
 			<installation>
 				<image>
 					<source>/16/16.3/Alcoves16.3_overview.jpg </source>
@@ -972,7 +972,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.3/16.3_Cecilia Portal/CP4_Blanco #2222.jpg </source>
+						<source>/16/16.3/16.3_Cecilia Portal/CP4_Blanco_2222.jpg </source>
 						<caption>
 							<![CDATA[ 
 								Cecilia Portal<br>
@@ -984,7 +984,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.3/16.3_Cecilia Portal/CP5_Blanco #110111.jpg </source>
+						<source>/16/16.3/16.3_Cecilia Portal/CP5_Blanco_110111.jpg </source>
 						<caption>
 							<![CDATA[ 
 								Cecilia Portal<br>
@@ -996,7 +996,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.3/16.3_Cecilia Portal/CP6_Blanco #661000.jpg </source>
+						<source>/16/16.3/16.3_Cecilia Portal/CP6_Blanco_661000.jpg </source>
 						<caption>
 							<![CDATA[ 
 								Cecilia Portal<br>
@@ -1488,7 +1488,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.4" dates="">
+		<exhibit id="16.4" dates="August 19 – October 9, 2016">
 			<installation>
 				<image>
 					<source>/16/16.4/Alcoves16.4_overview1(s).jpeg </source>
@@ -1892,7 +1892,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.5" dates="">
+		<exhibit id="16.5" dates="October 14 – December 4, 2016">
 			<installation>
 				<image>
 					<source>/16/16.5/Alcoves16.5_overview1.jpg </source>
@@ -2164,7 +2164,7 @@
 						<caption><![CDATA[ Alcove 16.5 installation view, Dara Mark ]]></caption>
 					</image>
 					<image>
-						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#7.jpg </source>
+						<source>/16/16.5/16.5_Mark/Dara-Mark-Elegy_7.jpg </source>
 						<caption>
 							<![CDATA[  
 								Dara Mark<br>
@@ -2176,7 +2176,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#15.jpg </source>
+						<source>/16/16.5/16.5_Mark/Dara-Mark-Elegy_15.jpg </source>
 						<caption>
 							<![CDATA[  
 								Dara Mark<br>
@@ -2188,7 +2188,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.5/16.5_Mark/Dara Mark-Elegy#19.jpg </source>
+						<source>/16/16.5/16.5_Mark/Dara-Mark-Elegy_19.jpg </source>
 						<caption>
 							<![CDATA[  
 								Dara Mark<br>
@@ -2200,7 +2200,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.5/16.5_Mark/Mark-Elegy#24.jpg </source>
+						<source>/16/16.5/16.5_Mark/Mark-Elegy_24.jpg </source>
 						<caption>
 							<![CDATA[  
 								Dara Mark<br>
@@ -2272,7 +2272,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.6" dates="">
+		<exhibit id="16.6" dates="December 9 , 2016 – January 29, 2017">
 			<installation>
 				<image>
 					<source>/16/16.6/Alcoves16.6_overview1.jpg </source>
@@ -2418,19 +2418,19 @@
 
 				<artist name="Christy Georg">
 					<image>
-						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg1.jpg </source>
+						<source> /16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg1.jpg </source>
 						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
 					</image>
 					<image>
-						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg2.jpg </source>
+						<source> /16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg2.jpg </source>
 						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
 					</image>
 					<image>
-						<source> 16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg3.jpg </source>
+						<source> /16/16.6/16.6_Georg/Alcoves 16.6_ChristyGeorg3.jpg </source>
 						<caption><![CDATA[ Alcove 16.6 installation view, Christy Georg ]]></caption>
 					</image>
 					<image>
-						<source> 16/16.6/16.6_Georg/History Lesson_duo_hi res.jpg </source>
+						<source> /16/16.6/16.6_Georg/History Lesson_duo_hi res.jpg </source>
 						<caption>
 							<![CDATA[  
 								Christy Georg<br>
@@ -2441,9 +2441,27 @@
 						</caption>
 					</image>
 					<image>
-						<source> 16/16.6/16.6_Georg/Wait_Hate.jpg </source>
-						<source> 16/16.6/16.6_Georg/Wait_Hate_detail 2.jpg </source>
-						<source> 16/16.6/16.6_Georg/Wait_Hate_detail.jpg </source>
+						<source> /16/16.6/16.6_Georg/Wait_Hate.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christy Georg<br>
+<iWait/Hate (for Naumann)</i>, 2000<br>
+								Steel, wood, paper, machine parts, sound
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> /16/16.6/16.6_Georg/Wait_Hate_detail.jpg </source>
+						<caption>
+							<![CDATA[  
+								Christy Georg<br>
+<iWait/Hate (for Naumann)</i>, 2000<br>
+								Steel, wood, paper, machine parts, sound
+							]]>
+						</caption>
+					</image>
+					<image>
+						<source> /16/16.6/16.6_Georg/Wait_Hate_detail 2.jpg </source>
 						<caption>
 							<![CDATA[  
 								Christy Georg<br>
@@ -2459,7 +2477,7 @@
 						<caption><![CDATA[ Alcove 16.6 installation view, Jami Porter Lara ]]></caption>
 					</image>
 					<image>
-						<source>/16/16.6/16.6_Porter LaraAlcoves 16.6_JamiPorterLara1.jpg/</source>
+						<source>/16/16.6/16.6_Porter Lara/Alcoves 16.6_JamiPorterLara1.jpg </source>
 						<caption>
 							<![CDATA[  
 								Jami Porter Lara<br>
@@ -2544,7 +2562,7 @@
 				</artist>
 			</artists>
 		</exhibit>
-		<exhibit id="16.7" dates="">
+		<exhibit id="16.7" dates="February 3 – March 26, 2017">
 			<installation>
 				<image>
 					<source>/16/16.7/Alcoves16.7_overview1.jpg </source>
@@ -2601,7 +2619,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Bergman/Bergman - Helios Untitled #2.jpg </source>
+						<source>/16/16.7/16.7 Bergman/Bergman_Helios Untitled 2.jpg </source>
 						<caption>
 							<![CDATA[  
 								Valerie Roybal<br>
@@ -2648,7 +2666,7 @@
 						<caption><![CDATA[ Alcove 16.6 installation view, Ilona Pachler ]]></caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#1ilona_pachler_crimson_pearl.jpg </source>
+						<source>/16/16.7/16.7 Pachler/1ilona_pachler_crimson_pearl.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2659,7 +2677,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#2ilona_pachler_golden_gaze.jpg </source>
+						<source>/16/16.7/16.7 Pachler/2ilona_pachler_golden_gaze.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2670,7 +2688,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#3ilona_pachler_caput_mortuum.jpg </source>
+						<source>/16/16.7/16.7 Pachler/3ilona_pachler_caput_mortuum.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2681,7 +2699,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#4ilona_pachler_reflector_12.jpg </source>
+						<source>/16/16.7/16.7 Pachler/4ilona_pachler_reflector_12.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2692,7 +2710,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#5ilona_pachler_reflector_16.jpg </source>
+						<source>/16/16.7/16.7 Pachler/5ilona_pachler_reflector_16.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2703,7 +2721,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#6ilona_pachler_reflector_21.jpg </source>
+						<source>/16/16.7/16.7 Pachler/6ilona_pachler_reflector_21.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2714,7 +2732,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#7ilona_pachler_blue_hudson.jpg </source>
+						<source>/16/16.7/16.7 Pachler/7ilona_pachler_blue_hudson.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2725,7 +2743,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#9ilona_pachler_silo_hudson.jpg </source>
+						<source>/16/16.7/16.7 Pachler/9ilona_pachler_silo_hudson.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2736,7 +2754,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Pachler/#8ilona_pachler_tappan_zee.jpg </source>
+						<source>/16/16.7/16.7 Pachler/8ilona_pachler_tappan_zee.jpg </source>
 						<caption>
 							<![CDATA[  	
 								Ilona Pachler<br>
@@ -2881,7 +2899,7 @@
 						</caption>
 					</image>
 					<image>
-						<source>/16/16.7/16.7 Tsong/ETsong 2011 Father and Child det.jpg </source>
+						<source>/16/16.7/16.7 Tsong/ETsong 2011 Father and Child  det.jpg </source>
 						<caption>
 							<![CDATA[  
 								Edie Tsong<br>
