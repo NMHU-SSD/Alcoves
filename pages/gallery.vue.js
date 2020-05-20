@@ -71,29 +71,46 @@ var Gallery = {
     </router-link>
 
     <template v-for="gallery in exhibit">
-      <h2>Acoves {{ gallery.attributes.id }} Gallery</h2>
-      <p class="lead">{{ gallery.attributes.dates }}</p>
-
+      <div class="container-fluid mt-5">
+            <h2>Acoves {{ gallery.attributes.id }} Gallery</h2>
+            <p class="lead">{{ gallery.attributes.dates }}</p>
+      </div>
       <div class="container-fluid p-3">
         <h5 class="mb-3">Filter by Artist</h5>
         <ul class="nav nav-pills nav-fill">
           <li class="nav-item mb-2">
-            <button
+            <button v-if="artistFilter == 'all'"
               type="button"
               class="btn btn-secondary nav-link"
               @click="filterArtist('all')"
             >
               All
             </button>
+            <button v-else
+              type="button"
+              class="btn btn-disabled nav-link"
+              @click="filterArtist('all')"
+            >
+              All
+            </button>
           </li>
-          <li class="nav-item mb-2" v-for="artist in gallery.artists.artist">
-            <button
+          <li class="nav-item mb-2 active" v-for="artist in gallery.artists.artist">
+            
+            <button v-if="artistFilter == artist.attributes.name"
               type="button"
               class="btn btn-secondary nav-link"
               @click="filterArtist(artist.attributes.name)"
             >
               {{artist.attributes.name}}
             </button>
+            <button v-else
+              type="button"
+              class="btn btn-disabled nav-link"
+              @click="filterArtist(artist.attributes.name)"
+            >
+              {{artist.attributes.name}}
+            </button>
+
           </li>
         </ul>
       </div>
