@@ -72,9 +72,9 @@ var Gallery = {
 
     <template v-for="gallery in exhibit">
       <h2>Acoves {{ gallery.attributes.id }} Gallery</h2>
-      <h4>{{ gallery.attributes.dates }}</h4>
+      <p class="lead">{{ gallery.attributes.dates }}</p>
 
-      <div class="containter p-3">
+      <div class="container-fluid p-3">
         <h5 class="mb-3">Filter by Artist</h5>
         <ul class="nav nav-pills nav-fill">
           <li class="nav-item mb-2">

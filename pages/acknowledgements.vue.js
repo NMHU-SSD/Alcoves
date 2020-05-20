@@ -1,9 +1,7 @@
 var Acknowledgements = {
   template: `
-  <div class="container-fluid">
+  <div class="container-fluid p-5">
     <article>
-      <h1>New Mexico Museum of Art</h1>
-
       <h4>Special Thanks to Our Donors</h4>
       <p>
         Our ambitious program of exhibitions is made possible by the generous

@@ -1,17 +1,33 @@
+body,#app{
+    padding: 0px;
+    margin: 0px;
+}
+.logo-container{
+    max-width: 300px;
+}
 .logo {
-  width: auto;
-  height: 100px;
-  margin-bottom: 8px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
   background-repeat: no-repeat;
+}
+
+header{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+main{
+    min-height: 700px;
+    padding: 0;
 }
 footer {
   background-color: #e7e7e7;
 }
-footer .logo {
-  height: 55px;
-}
+
 .card-img-top {
-  height: 200px;
+  height: 300px;
+  object-fit: cover;
 }
 
 .gallery img {
@@ -29,28 +45,61 @@ footer .logo {
   object-fit: contain;
 }
 
+header .alcove2012, .card .alcove2012 {
+    background: #404C5F;
+}
+.alcove2012 .btn-primary{
+    background: #7791Ae;
+    border: 0;
+}
+.alcove2012 .btn-secondary{
+    background: #404C5F;
+    border: 0;
+}
 .alcove2012 h1,
 .alcove2012 h2,
 .alcove2012 h3,
 .alcove2012 h4,
 .alcove2012 h5,
-.alcove2012 h6 {
-  color: #6997b3;
+.alcove2012 h6{
+  color: #404C5F;
+}
+header .alcove2016, .card .alcove2016 {
+    background: #EF632E;
+}
+.alcove2016 .btn-primary{
+    background: #9B9387;
+    border: 0;
+}
+.alcove2016 .btn-secondary{
+    background: #EF632E;
+    border: 0;
 }
 .alcove2016 h1,
 .alcove2016 h2,
 .alcove2016 h3,
 .alcove2016 h4,
 .alcove2016 h5,
-.alcove2016 h6 {
-  color: #9b9286;
+.alcove2016 h6{
+  color: #EF632E;
 }
 
+header .alcove2020, .card .alcove2020{
+    background: #A2BB3C;
+}
+.alcove2020 .btn-primary{
+    background: #D6BD27;
+    border: 0;
+}
+.alcove2020 .btn-secondary{
+    background: #A2BB3C;
+    border: 0;
+}
 .alcove2020 h1,
 .alcove2020 h2,
 .alcove2020 h3,
 .alcove2020 h4,
 .alcove2020 h5,
-.alcove2020 h6 {
-  color: #d5bb27;
+.alcove2020 h6{
+  color: #A2BB3C;
 }

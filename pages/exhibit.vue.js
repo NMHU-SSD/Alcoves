@@ -40,10 +40,7 @@ var Exhibit = {
     },
   },
   template: `
-  <div class="container-fluid" v-if="isLoaded">
-    <div class="text-center">
-      <h1>ALCOVE IMAGE</h1>
-    </div>
+  <div class="container-fluid" :class='"alcove" + $route.params.year' v-if="isLoaded">
 
     <template v-for="t in alcove.title">
       <h1> {{ t }} </h1> 
@@ -54,36 +51,31 @@ var Exhibit = {
     </template>
     <br><br>
 
-    <div class="row ">
-      <template v-for="ex in alcove.exhibits.exhibit">
+    <div class="row">
+      <div v-for="exhibit in alcove.exhibits.exhibit" class="col-sm-12 col-md-6 col-lg-4 mb-4">
+            <div class="card">
+                <template v-if="exhibit.installation.image.length == null">
+                        <template v-for="src in exhibit.installation.image.source">
+                            <img v-lazy="'data' + src" class="card-img-top img-fluid" alt="..."/>
+                        </template>
+                </template>
+                <template v-if="exhibit.installation.image.length > 1">
+                        <template v-for="src in exhibit.installation.image[0].source">
+                            <img v-lazy="'data' + src" class="card-img-top img-fluid" alt="..."/>
+                        </template>
+                </template>
 
-        <div class="col-sm-12 col-md-6 col-lg-4 mb-4" v-if="ex.installation.image[0] ">
-          <div
-            class="card"
-            v-for="s in ex.installation.image[0].source">
-            <img
-              v-lazy="'data' + s"
-              class="card-img-top img-fluid"
-              alt="..."
-            />
-            <div
-              class="card-body"
-              v-for="c in ex.installation.image[0].caption"
-            >
-              <h5 class="card-title">Alcoves {{ex.attributes.id}}</h5>
-              <p class="card-text">
-                <p>{{ex.attributes.dates}}</p>
-              </p>
-              <router-link
-                class="btn btn-secondary btn-block"
-                :to='"/exhibits/" + $route.params.year + "/gallery/" + ex.attributes.id'>
-                View Album
-              </router-link>
+                <div class="card-body">
+                    <h5 class="card-title">Alcove {{exhibit.attributes.id}}</h5>
+                    <p class="card-text">{{exhibit.attributes.dates}}</p>
+                    <router-link class="btn btn-primary btn-block" 
+                        :to='"/exhibits/" + $route.params.year + "/gallery/" + exhibit.attributes.id'>
+                        View Album</router-link>
+                </div>
             </div>
-          </div>
         </div>
-      </template>
     </div>
+
   </div> 
   `,
 };
