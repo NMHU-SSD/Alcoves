@@ -125,7 +125,7 @@ var Gallery = {
           <template v-for="image in gallery.installation.image">
             <template v-if="artistFilter == 'all'">
               <figure
-                class="col-3 col-md-2 mb-3 p-2"
+                class="col-sm-12 col-md-6 col-lg-2 mb-3 p-2"
                 v-for="src in image.source"
                 itemprop="associatedMedia"
                 itemscope
@@ -154,7 +154,7 @@ var Gallery = {
             <template v-if="artistFilter == artist.attributes.name">
               <template v-for="image in artist.image">
                 <figure
-                  class="col-3 col-md-2 mb-3 p-2"
+                  class="col-sm-12 col-md-6 col-lg-2 mb-3 p-2"
                   v-for="src in image.source"
                   itemprop="associatedMedia"
                   itemscope
@@ -181,7 +181,7 @@ var Gallery = {
             <template v-if="artistFilter == 'all'">
               <template v-for="image in artist.image">
                 <figure
-                  class="col-3 col-md-2 mb-3 p-2"
+                  class="col-sm-12 col-md-6 col-lg-2 mb-3 p-2"
                   v-for="src in image.source"
                   itemprop="associatedMedia"
                   itemscope

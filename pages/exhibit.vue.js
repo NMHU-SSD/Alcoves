@@ -52,7 +52,7 @@ var Exhibit = {
     <br><br>
 
     <div class="row">
-      <div v-for="exhibit in alcove.exhibits.exhibit" class="col-sm-12 col-md-6 col-lg-4 mb-4">
+      <div v-for="exhibit in alcove.exhibits.exhibit" class="col-sm-12 col-md-6 col-lg-4  mb-4">
             <div class="card">
                 <template v-if="exhibit.installation.image.length == null">
                         <template v-for="src in exhibit.installation.image.source">
