@@ -2,6 +2,7 @@ body,
 #app {
   padding: 0px;
   margin: 0px;
+  font-size: 1.3em;
 }
 .logo-container {
   max-width: 300px;
@@ -19,7 +20,7 @@ header {
 }
 
 main {
-  min-height: 700px;
+  min-height: 800px;
   padding: 0;
 }
 footer {
@@ -108,10 +109,14 @@ header .alcove2020,
   color: #a2bb3c;
 }
 
-.navText {
-  font-size: 1.5em;
+nav {
+  font-size: 38px !important;
 }
 
-.navDropdownText {
-  font-size: 1em;
+.card-title {
+  font-size: 32px !important;
+}
+
+.btn {
+  font-size: 24px !important;
 }

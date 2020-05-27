@@ -4,18 +4,18 @@ var Shows = {
     <br /><br />
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
       <div class="col mb-4">
-        <div class="card border-light bg-light">
+        <div class="card">
           <div class="alcove2012">
             <div class="card-img-top d-flex align-items-center p-5">
               <img
                 src="assets/logos/alcoves12_logo.png"
                 class="img-fluid"
-                alt="..."
+                alt="2012 Alcove show"
               />
             </div>
           </div>
           <div class="card-body">
-            <h4 class="card-title">Alcoves 2012</h4>
+            <h1 class="card-title">Alcoves 2012</h1>
             <p class="card-text">
               Series of 9 exhibitions, ect
             </p>
@@ -26,13 +26,13 @@ var Shows = {
         </div>
       </div>
       <div class="col mb-4">
-        <div class="card border-light bg-light">
+        <div class="card">
           <div class="alcove2016">
             <div class="card-img-top d-flex align-items-center p-5">
               <img
                 src="assets/logos/alcoves16_logo.png"
                 class="img-fluid"
-                alt="..."
+                alt="2016 Alcove show"
               />
             </div>
           </div>
@@ -48,13 +48,13 @@ var Shows = {
         </div>
       </div>
       <div class="col mb-4">
-        <div class="card border-light bg-light">
+        <div class="card">
           <div class="alcove2020">
             <div class="card-img-top d-flex align-items-center p-5">
               <img
                 src="assets/logos/alcoves20_logo.png"
                 class="img-fluid"
-                alt="..."
+                alt="2020 Alcove show"
               />
             </div>
           </div>
