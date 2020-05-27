@@ -9,130 +9,166 @@
     <title>Alcove Shows</title>
   </head>
   <body>
-        <div id="app">
-          <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light pl-5 pr-5 pt-5">
-            <router-link class="navbar-brand logo-container" to="/">
-              <img class="logo" src="assets/logos/NMMoA_logo.png" />
-            </router-link>
-            <button class="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarNav"
-                aria-controls="navbarNav"
+    <div id="app">
+      <nav
+        class="navbar navbar-expand-lg navbar-light fixed-top bg-light pl-5 pr-5 pt-5"
+      >
+        <router-link class="navbar-brand logo-container" to="/">
+          <img class="logo" src="assets/logos/NMMoA_logo.png" />
+        </router-link>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse justify-content-end navText"
+          id="navbarNav"
+        >
+          <ul class="navbar-nav mr-0 mt-3">
+            <li class="nav-item">
+              <router-link class="nav-link" to="/about"> About </router-link>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
                 aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse " id="navbarNav">
-                <ul class="navbar-nav mr-0 mt-3">
-                    <li class="nav-item">
-                        <router-link class="nav-link" to="/about"> About </router-link>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" 
-                           href="#"
-                           id="navbarDropdown"
-                           role="button"
-                           data-toggle="dropdown"
-                           aria-haspopup="true"
-                           aria-expanded="false">
-                            Alcove Shows</a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <router-link class="dropdown-item" to="/exhibits">All Shows</router-link>
-                            <router-link class="dropdown-item" to="/exhibits/2012">Alcoves 2012</router-link>
-                            <router-link class="dropdown-item" to="/exhibits/2016">Alcoves 2016</router-link>
-                            <router-link class="dropdown-item" to="/exhibits/2020">Alcoves 2020</router-link>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <router-link class="nav-link" to="/acknowledgements">Acknowledgements</router-link>
-                    </li>
-                </ul>
+              >
+                Alcove Shows</a
+              >
+              <div
+                class="dropdown-menu navDropdownText"
+                aria-labelledby="navbarDropdown"
+              >
+                <router-link class="dropdown-item" to="/exhibits"
+                  >All Shows</router-link
+                >
+                <router-link class="dropdown-item" to="/exhibits/2012"
+                  >Alcoves 2012</router-link
+                >
+                <router-link class="dropdown-item" to="/exhibits/2016"
+                  >Alcoves 2016</router-link
+                >
+                <router-link class="dropdown-item" to="/exhibits/2020"
+                  >Alcoves 2020</router-link
+                >
               </div>
-            </nav>
-            <!-- Header -->
-            <header>
-                <div class="container-fluid text-center alcove2012 m-0 p-5" v-if="$route.params.year == 2012" >
-                    <img class="img-fluid" src="assets/logos/alcoves12_logo.png"/>
-                </div>
-                <div class="container-fluid text-center alcove2016 m-0 p-5" v-else-if="$route.params.year == 2016" >
-                    <img class="img-fluid" src="assets/logos/alcoves16_logo.png"/>
-                </div>
-                <div class="container-fluid text-center alcove2020 m-0 p-5" v-else-if="$route.params.year == 2020" >
-                    <img class="img-fluid" src="assets/logos/alcoves20_logo.png"/>
-                </div>
-            </header>
-            <main>
-                <router-view :key="$route.fullPath" class="container-fluid"></router-view>
-            </main>
-            
-            <footer class="container-fluid row p-5 m-0 vh-75">
-                <div class="col-sm-12 col-md-6 col-lg-8">
-                  <p>
-                    Copyright 2012 |
-                    <a href="http://www.nmartmuseum.org">The New Mexico Museum of Art</a><br />The museum is a Division of the
-                    <a href="http://www.newmexicoculture.org"
-                      >New Mexico Department of Cultural Affairs</a>
-                  </p>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-4">
-                    <a href="http://www.newmexicoculture.org/">
-                        <img class=" img-fluid" src="assets/logos/DCA_logo.png"/>
-                    </a>
-                </div>
-            </footer>
-      </div>
-      <!-- end #app -->
-      
-      <!-- Photoswipe -->
-        <!--CSS file -->
-        <link rel="stylesheet" href="libraries/photoswipe/photoswipe.css" />
-        <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+            </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/acknowledgements"
+                >Acknowledgements</router-link
+              >
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <!-- Header -->
+      <header>
+        <div
+          class="container-fluid text-center alcove2012 m-0 p-5"
+          v-if="$route.params.year == 2012"
+        >
+          <img class="img-fluid" src="assets/logos/alcoves12_logo.png" />
+        </div>
+        <div
+          class="container-fluid text-center alcove2016 m-0 p-5"
+          v-else-if="$route.params.year == 2016"
+        >
+          <img class="img-fluid" src="assets/logos/alcoves16_logo.png" />
+        </div>
+        <div
+          class="container-fluid text-center alcove2020 m-0 p-5"
+          v-else-if="$route.params.year == 2020"
+        >
+          <img class="img-fluid" src="assets/logos/alcoves20_logo.png" />
+        </div>
+      </header>
+      <main>
+        <router-view
+          :key="$route.fullPath"
+          class="container-fluid"
+        ></router-view>
+      </main>
+
+      <footer class="container-fluid row p-5 m-0 vh-75">
+        <div class="col-sm-12 col-md-6 col-lg-8">
+          <p>
+            Copyright 2012 |
+            <a href="http://www.nmartmuseum.org">The New Mexico Museum of Art</a
+            ><br />The museum is a Division of the
+            <a href="http://www.newmexicoculture.org"
+              >New Mexico Department of Cultural Affairs</a
+            >
+          </p>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4">
+          <a href="http://www.newmexicoculture.org/">
+            <img class="img-fluid" src="assets/logos/DCA_logo.png" />
+          </a>
+        </div>
+      </footer>
+    </div>
+    <!-- end #app -->
+
+    <!-- Photoswipe -->
+    <!--CSS file -->
+    <link rel="stylesheet" href="libraries/photoswipe/photoswipe.css" />
+    <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
                  In the folder of skin CSS file there are also:
                  - .png and .svg icons sprite, 
                  - preloader.gif (for browsers that do not support CSS animations) -->
-        <link
-          rel="stylesheet"
-          href="libraries/photoswipe/default-skin/default-skin.css"
-        />
-        <!-- Core JS file -->
-        <script src="libraries/photoswipe/photoswipe.min.js"></script>
-        <!-- UI JS file -->
-        <script src="libraries/photoswipe/photoswipe-ui-default.min.js"></script>
-        <!-- Photoswipe gallery -->
-        <script src="assets/photoswipe-gallery.js"></script>
+    <link
+      rel="stylesheet"
+      href="libraries/photoswipe/default-skin/default-skin.css"
+    />
+    <!-- Core JS file -->
+    <script src="libraries/photoswipe/photoswipe.min.js"></script>
+    <!-- UI JS file -->
+    <script src="libraries/photoswipe/photoswipe-ui-default.min.js"></script>
+    <!-- Photoswipe gallery -->
+    <script src="assets/photoswipe-gallery.js"></script>
 
-        <!-- Bootstrap -->
-        <link
-          rel="stylesheet"
-          href="libraries/bootstrap-4.4.1-dist/css/bootstrap.min.css"
-        />
-        <script src="libraries/jquery/jquery-3.5.1.slim.min.js"></script>
+    <!-- Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="libraries/bootstrap-4.4.1-dist/css/bootstrap.min.css"
+    />
+    <script src="libraries/jquery/jquery-3.5.1.slim.min.js"></script>
 
-        <script src="libraries/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+    <script src="libraries/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
 
-        <!-- custom css -->
-        <link rel="stylesheet" href="assets/style.css" />
-      
-        <!-- Parser -->
-        <script src="assets/xmltojson.js"></script>
+    <!-- custom css -->
+    <link rel="stylesheet" href="assets/style.css" />
 
-        <!-- Vue -->
-        <script src="libraries/vuejs/vue.js"></script>
-        <script src="libraries/vuejs/vue-router.js"></script>
+    <!-- Parser -->
+    <script src="assets/xmltojson.js"></script>
 
-        <!-- Lazy Load -->
-        <script src="libraries/lazyload/vue-lazyload.js"></script>
+    <!-- Vue -->
+    <script src="libraries/vuejs/vue.js"></script>
+    <script src="libraries/vuejs/vue-router.js"></script>
 
-        <!-- Vue Pages -->
-        <script src="pages/about.vue.js"></script>
-        <script src="pages/shows.vue.js"></script>
-        <script src="pages/exhibit.vue.js"></script>
-        <script src="pages/gallery.vue.js"></script>
-        <script src="pages/acknowledgements.vue.js"></script>
+    <!-- Lazy Load -->
+    <script src="libraries/lazyload/vue-lazyload.js"></script>
 
-        <!-- Vue App / Router -->
-        <script src="app.js"></script>
-      
+    <!-- Vue Pages -->
+    <script src="pages/about.vue.js"></script>
+    <script src="pages/shows.vue.js"></script>
+    <script src="pages/exhibit.vue.js"></script>
+    <script src="pages/gallery.vue.js"></script>
+    <script src="pages/acknowledgements.vue.js"></script>
+
+    <!-- Vue App / Router -->
+    <script src="app.js"></script>
   </body>
 </html>
