@@ -40,42 +40,58 @@ var Exhibit = {
     },
   },
   template: `
-  <div class="container-fluid" :class='"alcove" + $route.params.year' v-if="isLoaded">
+    <div
+      class="container-fluid"
+      :class='"alcove" + $route.params.year'
+      v-if="isLoaded"
+    >
+      <template v-for="t in alcove.title">
+        <h1>{{ t }}</h1>
+      </template>
 
-    <template v-for="t in alcove.title">
-      <h1> {{ t }} </h1> 
-    </template>
-    
-    <template v-for="des in alcove.description">
-      <p> {{ des }} </p> 
-    </template>
-    <br><br>
+      <template v-for="des in alcove.description">
+        <p>{{ des }}</p>
+      </template>
+      <br /><br />
 
-    <div class="row">
-      <div v-for="exhibit in alcove.exhibits.exhibit" class="col-sm-12 col-md-6 col-lg-4  mb-4">
-            <div class="card">
-                <template v-if="exhibit.installation.image.length == null">
-                        <template v-for="src in exhibit.installation.image.source">
-                            <img v-lazy="'data' + src" class="card-img-top img-fluid" alt="..."/>
-                        </template>
-                </template>
-                <template v-if="exhibit.installation.image.length > 1">
-                        <template v-for="src in exhibit.installation.image[0].source">
-                            <img v-lazy="'data' + src" class="card-img-top img-fluid" alt="..."/>
-                        </template>
-                </template>
+      <div class="row">
+        <div
+          v-for="exhibit in alcove.exhibits.exhibit"
+          class="col-sm-12 col-md-6 col-lg-4 mb-4"
+        >
+          <div class="card">
+            <template v-if="exhibit.installation.image.length == null">
+              <template v-for="src in exhibit.installation.image.source">
+                <img
+                  v-lazy="'data' + src"
+                  class="card-img-top img-fluid"
+                  :alt='"Exhibits " + exhibit.attributes.id'
+                />
+              </template>
+            </template>
+            <template v-if="exhibit.installation.image.length > 1">
+              <template v-for="src in exhibit.installation.image[0].source">
+                <img
+                  v-lazy="'data' + src"
+                  class="card-img-top img-fluid"
+                  :alt='"Exhibits " + exhibit.attributes.id'
+                  />
+              </template>
+            </template>
 
-                <div class="card-body">
-                    <h5 class="card-title">Alcove {{exhibit.attributes.id}}</h5>
-                    <p class="card-text">{{exhibit.attributes.dates}}</p>
-                    <router-link class="btn btn-primary btn-block" 
-                        :to='"/exhibits/" + $route.params.year + "/gallery/" + exhibit.attributes.id'>
-                        View Album</router-link>
-                </div>
+            <div class="card-body">
+              <h4 class="card-title">Alcove {{exhibit.attributes.id}}</h4>
+              <h5 class="card-text">{{exhibit.attributes.dates}}</h5>
+              <router-link
+                class="btn btn-primary btn-block"
+                :to='"/exhibits/" + $route.params.year + "/gallery/" + exhibit.attributes.id'
+              >
+                View Album</router-link
+              >
             </div>
+          </div>
         </div>
+      </div>
     </div>
-
-  </div> 
   `,
 };

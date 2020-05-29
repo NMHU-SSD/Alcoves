@@ -14,7 +14,11 @@
         class="navbar navbar-expand-lg navbar-light fixed-top bg-light pl-5 pr-5 pt-5"
       >
         <router-link class="navbar-brand logo-container" to="/">
-          <img class="logo" alt="Logo" src="assets/logos/NMMoA_logo.png" />
+          <img
+            class="logo"
+            alt="New Mexico Meseum of Art Logo"
+            src="assets/logos/NMMoA_logo.png"
+          />
         </router-link>
         <button
           class="navbar-toggler"
@@ -32,10 +36,76 @@
           id="navbarNav"
         >
           <ul class="navbar-nav mr-0 mt-3">
-            <li class="nav-item">
-              <router-link class="nav-link" to="/about"> About </router-link>
-            </li>
-            <li class="nav-item dropdown">
+            <template v-if="$route.path == '/about'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/about">
+                  About <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/about"> About </router-link>
+              </li>
+            </template>
+            <template v-if="$route.path == '/exhibits'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/exhibits">
+                  All Shows <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/exhibits">
+                  All Shows
+                </router-link>
+              </li>
+            </template>
+            <template v-if="$route.path == '/exhibits/2012'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/exhibits/2012">
+                  Alcoves 2012 <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/exhibits/2012">
+                  Alcoves 2012
+                </router-link>
+              </li>
+            </template>
+            <template v-if="$route.path == '/exhibits/2016'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/exhibits/2016">
+                  Alcoves 2016 <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/exhibits/2016">
+                  Alcoves 2016
+                </router-link>
+              </li>
+            </template>
+            <template v-if="$route.path == '/exhibits/2020'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/exhibits/2020">
+                  Alcoves 2020 <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/exhibits/2020">
+                  Alcoves 2020
+                </router-link>
+              </li>
+            </template>
+
+            <!-- <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -61,12 +131,21 @@
                   >Alcoves 2020</router-link
                 >
               </div>
-            </li>
-            <li class="nav-item">
-              <router-link class="nav-link" to="/acknowledgements"
-                >Acknowledgements</router-link
-              >
-            </li>
+            </li> -->
+            <template v-if="$route.path == '/acknowledgements'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/acknowledgements"
+                  >Acknowledgements <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/acknowledgements"
+                  >Acknowledgements</router-link
+                >
+              </li>
+            </template>
           </ul>
         </div>
       </nav>
@@ -76,21 +155,34 @@
           class="container-fluid text-center alcove2012 m-0 p-5"
           v-if="$route.params.year == 2012"
         >
-          <img class="img-fluid" src="assets/logos/alcoves12_logo.png" />
+          <img
+            class="img-fluid"
+            alt="Alcove Shows 2012"
+            src="assets/logos/alcoves12_logo.png"
+          />
         </div>
         <div
           class="container-fluid text-center alcove2016 m-0 p-5"
           v-else-if="$route.params.year == 2016"
         >
-          <img class="img-fluid" src="assets/logos/alcoves16_logo.png" />
+          <img
+            class="img-fluid"
+            alt="Alcove Shows 2016"
+            src="assets/logos/alcoves16_logo.png"
+          />
         </div>
         <div
           class="container-fluid text-center alcove2020 m-0 p-5"
           v-else-if="$route.params.year == 2020"
         >
-          <img class="img-fluid" src="assets/logos/alcoves20_logo.png" />
+          <img
+            class="img-fluid"
+            alt="Alcove Shows 2020"
+            src="assets/logos/alcoves20_logo.png"
+          />
         </div>
       </header>
+
       <main>
         <router-view
           :key="$route.fullPath"
@@ -111,7 +203,11 @@
         </div>
         <div class="col-sm-12 col-md-6 col-lg-4 mt-3">
           <a href="http://www.newmexicoculture.org/">
-            <img class="img-fluid" alt="Logo" src="assets/logos/DCA_logo.png" />
+            <img
+              class="img-fluid"
+              alt="Cultural Affairs Logo"
+              src="assets/logos/DCA_logo.png"
+            />
           </a>
         </div>
       </footer>

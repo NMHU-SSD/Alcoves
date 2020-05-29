@@ -1,3 +1,8 @@
+@font-face {
+  font-family: dezen;
+  src: url(/assets/fonts/Dezen_Pro_Regular.otf);
+}
+
 body,
 #app {
   padding: 0px;
@@ -110,7 +115,10 @@ header .alcove2020,
 }
 
 nav {
-  font-size: 38px !important;
+  /* If we are using dropdown */
+  /*  font-size: 38px !important; */
+  /* If all of the Alcove shows are on the navbar */
+  font-size: 20px !important;
 }
 
 .card-title {
@@ -119,4 +127,24 @@ nav {
 
 .btn {
   font-size: 24px !important;
+}
+
+nav .nav-link {
+  font-family: dezen;
+}
+
+nav .nav-link:hover {
+  color: #585858 !important;
+}
+
+nav .nav-link:active {
+  color: #000000 !important;
+}
+
+nav div ul li {
+  padding-right: 1em;
+}
+
+.lead {
+  font-size: 24px;
 }
