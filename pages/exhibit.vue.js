@@ -49,6 +49,7 @@ var Exhibit = {
         <h1>{{ t }}</h1>
       </template>
 
+
       <template v-for="des in alcove.description">
         <p>{{ des }}</p>
       </template>
@@ -81,7 +82,7 @@ var Exhibit = {
 
             <div class="card-body">
               <h4 class="card-title">Alcove {{exhibit.attributes.id}}</h4>
-              <h5 class="card-text">{{exhibit.attributes.dates}}</h5>
+              <p class="card-text lead">{{exhibit.attributes.dates}}</p>
               <router-link
                 class="btn btn-primary btn-block"
                 :to='"/exhibits/" + $route.params.year + "/gallery/" + exhibit.attributes.id'

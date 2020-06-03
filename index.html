@@ -36,6 +36,47 @@
           id="navbarNav"
         >
           <ul class="navbar-nav mr-0 mt-3">
+              
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/about">
+                  About <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+              <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                Alcove Shows</a
+              >
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <router-link class="dropdown-item" to="/exhibits"
+                  >All Shows</router-link>
+                <router-link class="dropdown-item" to="/exhibits/2012"
+                  >Alcoves 2012</router-link
+                >
+                <router-link class="dropdown-item" to="/exhibits/2016"
+                  >Alcoves 2016</router-link>
+                <router-link class="dropdown-item" to="/exhibits/2020"
+                  >Alcoves 2020</router-link>
+              </div>
+            </li>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/press">
+                  Press
+                </router-link>
+              </li>
+               <li class="nav-item">
+                <router-link class="nav-link" to="/acknowledgements"
+                  >Acknowledgements</router-link
+                >
+              </li>
+<!--
             <template v-if="$route.path == '/about'">
               <li class="nav-item active">
                 <router-link class="nav-link" to="/about">
@@ -104,6 +145,7 @@
                 </router-link>
               </li>
             </template>
+-->
 
             <!-- <li class="nav-item dropdown">
               <a
@@ -147,6 +189,7 @@
               </li>
             </template> -->
 
+<!--
             <template v-if="$route.path == '/press'">
               <li class="nav-item active">
                 <router-link class="nav-link" to="/press">
@@ -161,6 +204,7 @@
                 </router-link>
               </li>
             </template>
+-->
           </ul>
         </div>
       </nav>

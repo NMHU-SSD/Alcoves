@@ -1,6 +1,6 @@
 @font-face {
   font-family: dezen;
-  src: url(assets/fonts/Dezen_Pro_Regular.otf);
+  src: url(fonts/Dezen_Pro_Regular.otf);
 }
 
 body,
@@ -18,6 +18,15 @@ body,
   margin-bottom: 10px;
   background-repeat: no-repeat;
 }
+p{
+        color: #000;
+
+    font-size: 18px !important;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #000;
+    font-family: dezen;
+}
 
 header {
   margin-top: 150px;
@@ -30,11 +39,6 @@ main {
 }
 footer {
   background-color: #e7e7e7;
-}
-
-.card-img-top {
-  height: 300px;
-  object-fit: cover;
 }
 
 .gallery img {
@@ -52,6 +56,7 @@ footer {
   object-fit: contain;
 }
 
+
 header .alcove2012,
 .card .alcove2012 {
   background: #404c5f;
@@ -64,6 +69,7 @@ header .alcove2012,
   background: #404c5f;
   border: 0;
 }
+
 .alcove2012 h1,
 .alcove2012 h2,
 .alcove2012 h3,
@@ -99,17 +105,14 @@ header .alcove2020,
 }
 .alcove2020 .btn-primary {
   background: #d6bd27;
-  color: #000000;
+  color: #4b4b4d;
   border: 0;
 }
 .alcove2020 .btn-secondary {
-  background: #a2bb3c;
+  background: #4b4b4d;
   border: 0;
 }
 
-.alcove2020 .card-body {
-  background-color: #404c5f;
-}
 
 .alcove2020 h1,
 .alcove2020 h2,
@@ -124,11 +127,9 @@ nav {
   /* If we are using dropdown */
   /*  font-size: 38px !important; */
   /* If all of the Alcove shows are on the navbar */
-  font-size: 20px !important;
-}
+  font-size: 24px !important;
+  font-family: dezen;
 
-.card-title {
-  font-size: 32px !important;
 }
 
 .btn {
@@ -136,7 +137,10 @@ nav {
 }
 
 nav .nav-link {
-  font-family: dezen;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: dezen;
+    color: #000000 !important;
 }
 
 nav .nav-link:hover {
@@ -144,11 +148,29 @@ nav .nav-link:hover {
 }
 
 nav .nav-link:active {
-  color: #000000 !important;
+    border-bottom: #585858;
+
 }
 
-nav div ul li {
-  padding-right: 0.8em;
+.dropdown-menu .dropdown-item {
+    font-size: 22px !important;
+}
+.dropdown-menu .dropdown-item:active{
+    background: #585858;
+}
+
+.figure-caption{
+    font-size: 16px !important;
+}
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+.card-title {
+    
+}
+.card-title {
+  font-size: 32px !important;
 }
 
 .lead {

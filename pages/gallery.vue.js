@@ -73,9 +73,9 @@ var Gallery = {
       </router-link>
 
       <template v-for="gallery in exhibit">
-        <div class="container-fluid mt-5">
+        <div class="container-fluid mt-5 mb-5">
           <h1>Acoves {{ gallery.attributes.id }} Gallery</h1>
-          <h5 class="lead">{{ gallery.attributes.dates }}</h5>
+          <b class="lead">{{ gallery.attributes.dates }}</b>
         </div>
         <div class="container-fluid p-3">
           <h3 class="mb-3">Filter by Artist</h3>
