@@ -154,3 +154,19 @@ nav div ul li {
 .lead {
   font-size: 24px;
 }
+
+.article .card .card-body .card-title {
+  font-size: 32px !important;
+}
+
+.article .card .card-body .card-subtitle {
+  font-size: 20px !important;
+}
+
+.article .card .card-body .card-text {
+  font-size: 28 !important;
+}
+
+.article .card .card-body .article-link {
+  font-size: 24px !important;
+}
