@@ -132,7 +132,7 @@
                 >
               </div>
             </li> -->
-            <template v-if="$route.path == '/acknowledgements'">
+            <!-- <template v-if="$route.path == '/acknowledgements'">
               <li class="nav-item active">
                 <router-link class="nav-link" to="/acknowledgements"
                   >Acknowledgements <span class="sr-only">(current)</span>
@@ -144,6 +144,21 @@
                 <router-link class="nav-link" to="/acknowledgements"
                   >Acknowledgements</router-link
                 >
+              </li>
+            </template> -->
+
+            <template v-if="$route.path == '/press'">
+              <li class="nav-item active">
+                <router-link class="nav-link" to="/press">
+                  Press <span class="sr-only">(current)</span>
+                </router-link>
+              </li>
+            </template>
+            <template v-else>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/press">
+                  Press
+                </router-link>
               </li>
             </template>
           </ul>
@@ -260,6 +275,7 @@
     <script src="pages/exhibit.vue.js"></script>
     <script src="pages/gallery.vue.js"></script>
     <script src="pages/acknowledgements.vue.js"></script>
+    <script src="pages/press.vue.js"></script>
 
     <!-- Vue App / Router -->
     <script src="app.js"></script>

@@ -1,6 +1,6 @@
 @font-face {
   font-family: dezen;
-  src: url(/assets/fonts/Dezen_Pro_Regular.otf);
+  src: url(assets/fonts/Dezen_Pro_Regular.otf);
 }
 
 body,
@@ -99,12 +99,18 @@ header .alcove2020,
 }
 .alcove2020 .btn-primary {
   background: #d6bd27;
+  color: #000000;
   border: 0;
 }
 .alcove2020 .btn-secondary {
   background: #a2bb3c;
   border: 0;
 }
+
+.alcove2020 .card-body {
+  background-color: #404c5f;
+}
+
 .alcove2020 h1,
 .alcove2020 h2,
 .alcove2020 h3,
@@ -142,7 +148,7 @@ nav .nav-link:active {
 }
 
 nav div ul li {
-  padding-right: 1em;
+  padding-right: 0.8em;
 }
 
 .lead {
