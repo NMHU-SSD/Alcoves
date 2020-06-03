@@ -3,7 +3,7 @@ var Shows = {
     <div class="container-fluid">
       <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 pt-5 pb-5">
         <div class="col mb-4">
-          <div class="card alcove2012">
+          <div class="card ">
             <div class="alcove2012">
               <div class="card-img-top d-flex align-items-center p-5">
                 <img
@@ -25,7 +25,7 @@ var Shows = {
           </div>
         </div>
         <div class="col mb-4">
-          <div class="card alcove2016">
+          <div class="card ">
             <div class="alcove2016">
               <div class="card-img-top d-flex align-items-center p-5">
                 <img
@@ -47,7 +47,7 @@ var Shows = {
           </div>
         </div>
         <div class="col mb-4">
-          <div class="card alcove2020">
+          <div class="card">
             <div class="alcove2020">
               <div class="card-img-top d-flex align-items-center p-5">
                 <img
@@ -62,7 +62,7 @@ var Shows = {
               <p class="card-text">
                 Series of X exhibitions
               </p>
-              <router-link class="btn  btn-block alcove2020" to="exhibits/2020">
+              <router-link class="btn btn-secondary btn-block" to="exhibits/2020">
                 View Gallery
               </router-link>
             </div>

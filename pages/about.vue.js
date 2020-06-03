@@ -1,6 +1,6 @@
 var About = {
   template: `
-  <div class="container-fluid mt-5 pt-5">
+  <div class="container-fluid mt-5 p-5">
     <article>
       <figure class="figure float-right m-3">
         <img src="assets/Archival-Alcove.jpg" class="img-fluid" />

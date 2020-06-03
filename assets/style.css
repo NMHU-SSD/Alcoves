@@ -12,6 +12,14 @@ body,
 .logo-container {
   max-width: 300px;
 }
+a{
+ color: grey
+}
+a:hover{
+ color: darkgrey
+     
+}
+
 .logo {
   width: 100%;
   height: auto;
@@ -19,8 +27,7 @@ body,
   background-repeat: no-repeat;
 }
 p{
-        color: #000;
-
+    color: #000;
     font-size: 18px !important;
 }
 h1, h2, h3, h4, h5, h6{
@@ -104,12 +111,11 @@ header .alcove2020,
   background: #a2bb3c;
 }
 .alcove2020 .btn-primary {
-  background: #d6bd27;
-  color: #4b4b4d;
+  background: #4b4b4d;
   border: 0;
 }
 .alcove2020 .btn-secondary {
-  background: #4b4b4d;
+  background: #88898c;
   border: 0;
 }
 
@@ -141,6 +147,8 @@ nav .nav-link {
     margin-right: 20px;
     font-family: dezen;
     color: #000000 !important;
+    text-transform: uppercase;
+	
 }
 
 nav .nav-link:hover {
@@ -154,6 +162,8 @@ nav .nav-link:active {
 
 .dropdown-menu .dropdown-item {
     font-size: 22px !important;
+    text-transform: uppercase;
+
 }
 .dropdown-menu .dropdown-item:active{
     background: #585858;
@@ -166,9 +176,7 @@ nav .nav-link:active {
   height: 300px;
   object-fit: cover;
 }
-.card-title {
-    
-}
+
 .card-title {
   font-size: 32px !important;
 }
