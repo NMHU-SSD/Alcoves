@@ -1,6 +1,6 @@
 var About = {
   template: `
-  <div class="container-fluid mt-5 p-5">
+  <div class="container mt-5 p-5">
     <article>
       <h1>About the Alcove Shows</h1>
       <p>

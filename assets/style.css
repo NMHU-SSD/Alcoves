@@ -12,12 +12,11 @@ body,
 .logo-container {
   max-width: 300px;
 }
-a{
- color: grey
+a {
+  color: black;
 }
-a:hover{
- color: darkgrey
-     
+a:hover {
+  color: grey;
 }
 
 .logo {
@@ -26,13 +25,18 @@ a:hover{
   margin-bottom: 10px;
   background-repeat: no-repeat;
 }
-p{
-    color: #000;
-    font-size: 18px !important;
+p {
+  color: #000;
+  font-size: 24px !important;
 }
-h1, h2, h3, h4, h5, h6{
-    color: #000;
-    font-family: dezen;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #000;
+  font-family: dezen;
 }
 
 header {
@@ -62,7 +66,6 @@ footer {
   max-width: none;
   object-fit: contain;
 }
-
 
 header .alcove2012,
 .card .alcove2012 {
@@ -119,7 +122,6 @@ header .alcove2020,
   border: 0;
 }
 
-
 .alcove2020 h1,
 .alcove2020 h2,
 .alcove2020 h3,
@@ -135,7 +137,6 @@ nav {
   /* If all of the Alcove shows are on the navbar */
   font-size: 24px !important;
   font-family: dezen;
-
 }
 
 .btn {
@@ -143,12 +144,11 @@ nav {
 }
 
 nav .nav-link {
-    margin-left: 20px;
-    margin-right: 20px;
-    font-family: dezen;
-    color: #000000 !important;
-    text-transform: uppercase;
-	
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: dezen;
+  color: #000000 !important;
+  text-transform: uppercase;
 }
 
 nav .nav-link:hover {
@@ -156,21 +156,19 @@ nav .nav-link:hover {
 }
 
 nav .nav-link:active {
-    border-bottom: #585858;
-
+  border-bottom: #585858;
 }
 
 .dropdown-menu .dropdown-item {
-    font-size: 22px !important;
-    text-transform: uppercase;
-
+  font-size: 22px !important;
+  text-transform: uppercase;
 }
-.dropdown-menu .dropdown-item:active{
-    background: #585858;
+.dropdown-menu .dropdown-item:active {
+  background: #585858;
 }
 
-.figure-caption{
-    font-size: 16px !important;
+.figure-caption {
+  font-size: 16px !important;
 }
 .card-img-top {
   height: 300px;
@@ -190,13 +188,13 @@ nav .nav-link:active {
 }
 
 .article .card .card-body .card-subtitle {
-  font-size: 20px !important;
+  font-size: 24px !important;
 }
 
 .article .card .card-body .card-text {
-  font-size: 28 !important;
+  font-size: 30 !important;
 }
 
 .article .card .card-body .article-link {
-  font-size: 24px !important;
+  font-size: 26px !important;
 }
