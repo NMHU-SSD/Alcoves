@@ -2,32 +2,21 @@ var About = {
   template: `
   <div class="container-fluid mt-5 p-5">
     <article>
-      <figure class="figure float-right m-3">
-        <img src="assets/Archival-Alcove.jpg" class="img-fluid" />
-        <figcaption class="figure-caption">
-          East Gallery, 1917 Courtesy Palace of the Governors Photo Archives
-          (NMHM/DCA), 016781
-        </figcaption>
-      </figure>
-
-      <h1>About the Alcove Shows</h1>
+      <h1>Alcoves 12.0, Alcoves 16/17, and Alcoves 20/20.</h1>
+      <h3>Introduction and acknowledgement</h3>
       <p>
-        When the New Mexico Museum of Art was established in 1917, our building
-        and its Pueblo Revival style of architecture were designed by I. H. and
-        William M. Rapp to celebrate the historic qualities unique to our state.
-        The institution itself was created to exhibit artwork contemporary to its
-        time. Many of the artworks and artists who exhibited at that time now form
-        the historic core of our permanent collection.
-      </p>
-      <p>
-        To celebrate the 100th anniversary of New Mexico's statehood, and in
-        anticipation of the New Mexico Museum of Art's centennial, we presented a
-        year-long cycle of alcove exhibitions. The format of these Alcove Shows
-        can be traced back to the 1917 founding of the Art Gallery of the Museum
-        of New Mexico. Small one-person exhibitions were held in the gallery
-        alcoves through the 1950s, resuming in the mid-1980s and again in the
-        early 1990s. Alcove 12.0 continues this tradition with a series of nine
-        exhibitions featuring the work of 45 New Mexico artists.
+        The Goodwin Gallery in the New Mexico Museum of Art includes five discrete “alcove”spaces.
+        Small exhibitions by artists working in New Mexico in these alcove galleries are a tradition that
+        date back more than 100 years to the founding of the New Mexico Museum of Art when it was
+        known as the Art Gallery of the Museum of New Mexico. Over these many decades, alcove
+        based exhibitions have taken many forms. Small one-person Alcove exhibitions were held
+        through the 1950s, resuming in the mid-1980s and early 1990s.
+        In 2012 the Alcoves were revived with Alcove 12.0. a year-long series of small one-person
+        exhibitions by contemporary New Mexico artists . Since 2012, two additional series of
+        exhibitions, Alcoves 16/17 and Alcoves 20/20 have been on view in the Goodwin Gallery. All
+        three series continue the Alcoves tradition as an artist-centered showcase to feature new ideas,
+        artists at all stages of their careers, and artwork that is being made in New Mexico right now.
+        Alcoves 20/20 was supported in part by the Friends of Contemporary Art and Photography
       </p>
     </article>
   </div>
