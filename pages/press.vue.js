@@ -60,11 +60,7 @@ var Press = {
               <b> {{ art.date }} </b> <br>
               {{ art.author }}
             </p>
-
-			  <!-- <a :href="art.url"><button class="btn btn-secondary btn-block">Read Article</button></a> -->
-
            <component class="article-link btn btn-secondary btn-block" v-bind="linkProps(art.url)"> Read Article </component> 
-
           </div>
         </div>
       </div>
