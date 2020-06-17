@@ -12,5 +12,5 @@ Website to showcase 2012, 2016, 2020 Alcove Shows
 Alcove Shows data organized by XML  
 Press/Articles data stored in JSON
 
-### Internship completed by:
+## Internship completed by:
 [Vaughn Allen](https://github.com/vallen97)
