@@ -2,10 +2,10 @@
 Website to showcase 2012, 2016, 2020 Alcove Shows
 
 ## Built with the following:
-- Vue.js
-- Vue lazyload plugin
-- photoswipe.js
-- Bootstrap
+- [Vue.js] (https://vuejs.org/)
+- [Vue lazyload plugin] (http://hilongjw.github.io/vue-lazyload/)
+- [photoswipe.js] (https://photoswipe.com/)
+- [Bootstrap] (https://getbootstrap.com/)
 > All libraries are local (libs folder), not a CDN link.
 
 ## Data
