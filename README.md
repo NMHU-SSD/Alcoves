@@ -9,5 +9,5 @@ Website to showcase 2012, 2016, 2020 Alcove Shows
 > All libraries are local (libs folder), not a CDN link.
 
 ## Data
-Alcove Shows data organized by XML
+Alcove Shows data organized by XML  
 Press/Articles data stored in JSON
