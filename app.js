@@ -1,5 +1,5 @@
 var routes = [
-  { path: "/", redirect: "/about" },
+  { path: "/", redirect: "/exhibits" },
   { path: "/about", component: About },
   { path: "/exhibits", component: Shows },
   { path: "/exhibits/:year", component: Exhibit },
