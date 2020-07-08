@@ -179,7 +179,7 @@
                 </artist>
             </artists>
         </exhibit>
-        <exhibit id="20.2" dates="October 19, 2019- February 9, 2020 ">
+        <exhibit id="20.2" dates="October 19, 2019 - February 9, 2020 ">
             <installation>
                 <image>
                     <source>/20/20.2/Alcoves20.2_General.jpg </source>
@@ -293,6 +293,651 @@
                     <image>
                         <source>/20/20.2/20.2_SarahStolar/Kim.jpg </source>
                         <caption><![CDATA[ Sarah Stolar<br><i>Kim</i>, 2018<br> Ink, marker, colored pencil, water soluble crayon, acrylic gesso, silver leaf on paper. ]]></caption>
+                    </image>
+                </artist>
+            </artists>
+        </exhibit>
+        <exhibit id="20.3" dates="February 14, 2020 - December 6, 2020">
+            <installation>
+                <image>
+                    <source>/20/20.3/CG2_6474 (c) Cameron Anthony Gay.jpg </source>
+                    <caption><![CDATA[ Alcove 20/20 #3 installation view]]></caption>
+                </image>
+                <image>
+                    <source>/20/20.3/CG2_6561 (c) Cameron Anthony Gay.jpg</source>
+                    <caption><![CDATA[ Alcove 20/20 #3 installation view]]></caption>
+                </image>
+                <image>
+                    <source>/20/20.3/CG2_6513 (c) Cameron Anthony Gay.jpg </source>
+                    <caption><![CDATA[ Alcove 20/20 #3 installation view]]></caption>
+                </image>
+                <image>
+                    <source>/20/20.3/CG2_6471 (c) Cameron Anthony Gay.jpg </source>
+                    <caption><![CDATA[ Alcove 20/20 #3 installation view ]]></caption>
+                </image>
+            </installation>
+            <artists>
+                <artist name="Amy Ellingson">
+                    <image>
+                        <source>/20/20.3/AmyEllingson/ellingson_variation_bridge.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Amy Ellingson
+                                Variation: Bridge (white,black,pink), 2019
+                                Oil and encaustic on four panels
+                                50”x 156”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art 
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/ellingson_variation_white_oak_no.1.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Amy Ellingson 
+                                Variation (white/ oak) No.1, 2019
+                                Twelve color lithograph on Rivers BFK
+                                32 ¾ “x 30”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/ellingson_variation_white_oak_no.2.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Amy Ellingson 
+                                Variation (white/ oak) No.2, 2019
+                                Twelve color lithograph on Rivers BFK
+                                32 ¾ “x 30”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/SchematicVariationBridge (w,b,p) No1.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Amy Ellingson 
+                                Schematic: Variation: Bridge (white black pink) No.1,2019
+                                Graphite on Rising Stonehenge paper
+                                Image size: 35.75” x 45.5”
+                                Paper size: 37.75” x 48”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/ellingson_schematic_bridge_no.2.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Amy Ellingson 
+                                Schematic: Variation: Bridge (white black pink) No.2,2019
+                                Graphite on Rising Stonehenge paper
+                                Image size: 35.75” x 45.5” inches
+                                Paper size: 37.75” x 48”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6468 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Amy Ellingson 
+                                Artifacts No.1-10, 2019
+                                Glazed Porcelain 
+                                Diameter approximately 7”
+                                Courtesy of the artist and Eli Ridgway | Contemporary Art
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6545 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6487 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6481 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6476 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6480 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6469 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6466 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6473 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/AmyEllingson/CG2_6465 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Alcoves 20/20 #3
+                                Amy Ellingson
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                </artist>
+                <artist name="Debra Baxter">
+                    <image>
+                        <source>/20/20.3/DebraBaxter/1.Breastplate (Guard).jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Breastplate (Guard), 2018
+                                Bronze, Bronze, black amethyst
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/breastplate (reveal)300.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Breastplate (Reveal), 2017
+                                Bronze, quartz crystal
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/Breastplate (shielded)300.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Breastplate (Shielded), 2016
+                                Bronze
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/5.Breastplate (Heart in My Throat).jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Breastplate (Heart in my Chest), 2016
+                                Bronze
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/Lean 300.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Lean (Bust), 2016
+                                Alabaster, bronze, gold leaf, roselite crystal, cobaltaustinite crystal
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/7.side love.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Debra Baxter
+                                Love Side, 2019
+                                Alabaster, abalone, bronze
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/8.Rise.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                               Debra Baxter
+                                Rise, 2019
+                                Aluminum, African headrest, celestite, resin
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/9. Unapologetic glory.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Unapologetic Glory, 2016
+                                Alabaster, bronze
+                                Courtesy of form & concept
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/14.You Have to Believe We Art Magic.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                You Have to Believe we are Magic, 2020
+                                Alabaster, crystalized coral
+                                Courtesy of the artist
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/10.Heart of Gold (almost)2.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Heart of Gold (Almost), 2020 
+                                Bronze, clear crystal
+                                Courtesy of the artist
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/12.Honey Teeth.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Debra Baxter
+                                Honey Teeth, 2020 
+                                Badger jawbone, crystalized coral, citrine
+                                Courtesy of the artist
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6547 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6546 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6505 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6499 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6497 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6492 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/Missing.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6484 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6560 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/DebraBaxter/CG2_6548 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Debra Baxter
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                </artist>
+                <artist name="Jonathan Parker">
+                    <image>
+                        <source>/20/20.3/JonathanParker/SC_210_14_x_11_acrylic_on_canvas_sewn_2020.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Jonathan Parker 
+                                SC #210, 2020
+                                Acrylic on canvas, sewn
+                                14”x 17”
+                                Courtesy of the Jack Fisher Gallery
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/SC_207_17_x_14_acrylic_on_canvas_sewn_2020.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Jonathan Parker
+                                SC # 207, 2020
+                                acrylic on canvas, sewn 
+                                Courtesy of the Jack Fisher Gallery
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/SC_213_17_x_14_acrylic_on_canvas_sewn_2020.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Jonathan Parker
+                                SC # 213, 2020
+                                acrylic on canvas, sewn
+                                Courtesy of the Jack Fisher Gallery
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/SC_208_14_11_acrylic_on_canvas_sewn_2020.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Jonathan Parker
+                                SC #208, 2020
+                                acrylic on canvas, sewn
+                                Courtesy of the Jack Fisher Gallery
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6506 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6553 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6555 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6507 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6508 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6510 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/JonathanParker/CG2_6512 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Jonathan Parker
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                </artist>
+                <artist name="Munson Hunt">
+                    <image>
+                        <source>/20/20.3/MunsonHunt/Hunt. Breath Drawings. 1.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Munson Hunt 
+                                Breath Drawing 1, 2019
+                                Graphite on paper
+                                Courtesy of Gebert Contemporary
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/Hunt.Breath 2..jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Munson Hunt 
+                                Breath Drawing 2, 2019
+                                Graphite on paper
+                                Courtesy of Gebert Contemporary
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/Huntcloseup.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Munson Hunt 
+                                Slab (form for Glass Slab), 2010
+                                Burnt ponderosa pine from Tierra New Mexico
+                                Courtesy of the artist
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/Hunt UntitledSlabsBronze - Copy.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Munson Hunt 
+                                Untitled, (Slabs with Bronze, diptych), 2019
+                                Burned and waxed spruce with bronze
+                                Courtesy of Gebert Contemporary
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6537 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Munson Hunt 
+                                Remnant, From the Fire, 2018 
+                                Polished bronze
+                                Courtesy of the artist 
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6528 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6530 (c) Cameron Anthony Gay - Copy.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6532 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6533 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6538 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
+                    </image>
+                    <image>
+                        <source>/20/20.3/MunsonHunt/CG2_6559 (c) Cameron Anthony Gay.jpg</source>
+                        <caption>
+                            <![CDATA[ 
+                                Alcoves 20/20 #3
+                                Munson Hunt
+                                installation view
+                            ]]>
+                        </caption>
                     </image>
                 </artist>
             </artists>
