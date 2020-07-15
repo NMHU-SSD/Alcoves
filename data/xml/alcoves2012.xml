@@ -6,15 +6,15 @@
 		<exhibit id="12.1" dates="March 23 – April 29, 2012">
 			<installation>
 				<image>
-					<source>/12/12.1/alcove_12.1_1.jpg</source>
+					<source>/12/12.1/Alcove_12.1_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.1/alcove_12.1_2.jpg</source>
+					<source>/12/12.1/Alcove_12.1_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.1/alcove_12.1_3.jpg</source>
+					<source>/12/12.1/Alcove_12.1_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 			</installation>
@@ -210,34 +210,34 @@
 		<exhibit id="12.2" dates="May 4 – June 10, 2012">
 			<installation>
 				<image>
-					<source>/12/12.2/alcove_12.2_1.jpg</source>
+					<source>/12/12.2/Alcove_12.2_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.2 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.2/alcove_12.2_2.jpg</source>
+					<source>/12/12.2/Alcove_12.2_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.2 installation view ]]></caption>
 				</image>
 			</installation>
 			<artists>
 				<artist name="Robert M. Ellis">
 					<image>
-						<source>/12/12.2/ellis/Alcove_ellis_1.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_1.jpg</source>
 						<caption><![CDATA[ Alcove 12.2 installation view, Robert M. Ellis ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.2/ellis/Alcove_ellis_2.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_2.jpg</source>
 						<caption><![CDATA[ Robert M. Ellis<br> Woodcut Collage on Canvas #13, 2011<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.2/ellis/Alcove_ellis_3.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_3.jpg</source>
 						<caption><![CDATA[ Robert M. Ellis<br> Fence #10<br> oil on fence slats<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.2/ellis/Alcove_ellis_4.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_4.jpg</source>
 						<caption><![CDATA[ Robert M. Ellis<br> Woodcut Collage on Canvas #4, 2011<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.2/ellis/Alcove_ellis_5.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_5.jpg</source>
 						<caption><![CDATA[ Robert M. Ellis<br> Works on Wood #19, 2010, Works on Wood #6, 2010, Works on Wood #8, 2010, Works on Wood #2, 2010 <br> oil on lath <br> courtesy of the artist ]]>
 						</caption>
 					</image>
@@ -371,19 +371,19 @@
 		<exhibit id="12.3" dates="June 15 – July 29, 2012">
 			<installation>
 				<image>
-					<source>/12/12.3/alcove_12.3_1.jpg</source>
+					<source>/12/12.3/Alcove_12.3_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.3 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.3/alcove_12.3_2.jpg</source>
+					<source>/12/12.3/Alcove_12.3_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.3 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.3/alcove_12.3_3.jpg</source>
+					<source>/12/12.3/Alcove_12.3_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.3 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.3/alcove_12.3_4.jpg</source>
+					<source>/12/12.3/Alcove_12.3_4.jpg</source>
 					<caption><![CDATA[ Alcove 12.3 installation view ]]></caption>
 				</image>
 			</installation>
@@ -563,15 +563,15 @@
 		<exhibit id="12.4" dates="August 3 – September 9, 2012">
 			<installation>
 				<image>
-					<source>/12/12.4/alcove_12.4_1.jpg</source>
+					<source>/12/12.4/Alcove_12.4_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.4 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.4/alcove_12.4_2.jpg</source>
+					<source>/12/12.4/Alcove_12.4_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.4 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.4/alcove_12.4_3.jpg</source>
+					<source>/12/12.4/Alcove_12.4_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.4 installation view ]]></caption>
 				</image>
 			</installation>
@@ -707,7 +707,7 @@
 		<exhibit id="12.5" dates="September 14 – October 21, 2012">
 			<installation>
 				<image>
-					<source>/12/12.5/alcove_12.5_1.jpg</source>
+					<source>/12/12.5/Alcove_12.5_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.5 installation view ]]></caption>
 				</image>
 			</installation>
@@ -843,19 +843,19 @@
 		<exhibit id="12.6" dates="October 26 – December 2, 2012">
 			<installation>
 				<image>
-					<source>/12/12.6/alcove_12.6_1.jpg</source>
+					<source>/12/12.6/Alcove_12.6_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.6 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.6/alcove_12.6_2.jpg</source>
+					<source>/12/12.6/Alcove_12.6_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.6 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.6/alcove_12.6_3.jpg</source>
+					<source>/12/12.6/Alcove_12.6_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.6 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.6/alcove_12.6_4.jpg</source>
+					<source>/12/12.6/Alcove_12.6_4.jpg</source>
 					<caption><![CDATA[ Alcove 12.6 installation view ]]></caption>
 				</image>
 			</installation>
@@ -1035,15 +1035,15 @@
 		<exhibit id="12.7" dates="December 7, 2012 - January 13, 2013">
 			<installation>
 				<image>
-					<source>/12/12.7/alcove_12.7_1.jpg</source>
+					<source>/12/12.7/Alcove_12.7_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.7 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.7/alcove_12.7_2.jpg</source>
+					<source>/12/12.7/Alcove_12.7_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.7 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.7/alcove_12.7_3.jpg</source>
+					<source>/12/12.7/Alcove_12.7_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.7 installation view ]]></caption>
 				</image>
 			</installation>
@@ -1207,19 +1207,19 @@
 		<exhibit id="12.8" dates="January 18 – February 24, 2013">
 			<installation>
 				<image>
-					<source>/12/12.8/alcove_12.8_1.jpg</source>
+					<source>/12/12.8/Alcove_12.8_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.8 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.8/alcove_12.8_2.jpg</source>
+					<source>/12/12.8/Alcove_12.8_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.8 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.8/alcove_12.8_3.jpg</source>
+					<source>/12/12.8/Alcove_12.8_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.8 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.8/alcove_12.8_4.jpg</source>
+					<source>/12/12.8/Alcove_12.8_4.jpg</source>
 					<caption><![CDATA[ Alcove 12.8 installation view ]]></caption>
 				</image>
 			</installation>
@@ -1395,11 +1395,11 @@
 		<exhibit id="12.9" dates="March 1 – April 5, 2013">
 			<installation>
 				<image>
-					<source>/12/12.9/alcove_12.9_1.jpg</source>
+					<source>/12/12.9/Alcove_12.9_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.9 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.9/alcove_12.9_2.jpg</source>
+					<source>/12/12.9/Alcove_12.9_2.jpg</source>
 					<caption><![CDATA[ Alcove 12.9 installation view ]]></caption>
 				</image>
 			</installation>
