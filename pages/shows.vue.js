@@ -12,7 +12,7 @@ var Shows = {
         this.alcoves.push(await this.loadXMLDoc(years[i]));
       }
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   },
   methods: {

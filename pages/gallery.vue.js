@@ -12,7 +12,7 @@ var Gallery = {
       this.alcove = await this.loadXMLDoc(this.$route.params.year);
       this.isLoaded = true;
     } catch (err) {
-      console.log(err);
+      // console.log(err);
     }
   },
   methods: {
@@ -46,7 +46,7 @@ var Gallery = {
     },
     filterArtist: function (name) {
       this.artistFilter = name;
-      console.log(this.artistFilter);
+      // console.log(this.artistFilter);
     },
   },
   watch: {

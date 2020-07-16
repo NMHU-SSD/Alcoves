@@ -10,7 +10,7 @@ var Exhibit = {
       this.alcove = await this.loadXMLDoc(this.$route.params.year);
       this.isLoaded = true;
     } catch (err) {
-      console.log(err);
+      //console.log(err);
     }
   },
   methods: {
@@ -26,7 +26,7 @@ var Exhibit = {
             var parse = new DOMParser();
             var xmlDoc = parse.parseFromString(response, "text/xml");
             json = xmlToJson(xmlDoc);
-            console.log(json);
+            // console.log(json);
             res(json.alcoves); //return alcove by
           }
         };

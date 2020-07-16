@@ -19,7 +19,7 @@ var Press = {
           this.articles = data.articles; //set as instance data object
         })
         .catch((error) => {
-          console.error("Error:", error);
+          // console.error("Error:", error);
         });
     },
     linkProps(url) {

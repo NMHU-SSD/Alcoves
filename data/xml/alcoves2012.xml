@@ -6,7 +6,7 @@
 		<exhibit id="12.1" dates="March 23 – April 29, 2012">
 			<installation>
 				<image>
-					<source>/12/12.1/Alcove_12.1_1.jpg</source>
+					<source>/12/12.1/alcove_12.1_1.jpg</source>
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 				<image>
@@ -14,7 +14,7 @@
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 				<image>
-					<source>/12/12.1/Alcove_12.1_3.jpg</source>
+					<source>/12/12.1/alcove_12.1_3.jpg</source>
 					<caption><![CDATA[ Alcove 12.1 installation view ]]></caption>
 				</image>
 			</installation>
@@ -140,11 +140,11 @@
 				<artist name="Ted Larsen">
 					<image>
 						<source>/12/12.1/larsen/Alcove.Larsen_1.jpg</source>
-						<caption><![CDATA[ Alcove 12.2 installation view, Ted Larsen ]]></caption>
+						<caption><![CDATA[ Alcove 12.1 installation view, Ted Larsen ]]></caption>
 					</image>
 					<image>
 						<source>/12/12.1/larsen/Alcove.Larsen_2.jpg</source>
-						<caption><![CDATA[ Alcove 12.2 installation view, Ted Larsen ]]></caption>
+						<caption><![CDATA[ Alcove 12.1 installation view, Ted Larsen ]]></caption>
 					</image>
 					<image>
 						<source>/12/12.1/larsen/endlessform1.jpg</source>
@@ -155,31 +155,31 @@
 						<caption><![CDATA[ Ted Larsen<br><i>Endless Form #2</i>, 2011<br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/endlessform3.jpg</source>
+						<source>/12/12.1/larsen/endlessform3.JPG</source>
 						<caption><![CDATA[ Ted Larsen<br><i>Endless Form #3</i>, 2012<br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/endlessform4.jpg</source>
+						<source>/12/12.1/larsen/endlessform4.JPG</source>
 						<caption><![CDATA[ Ted Larsen<br><i>Endless Form #4</i>, 2012<br>salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/rodeoclown.jpg</source>
+						<source>/12/12.1/larsen/rodeoclown.JPG</source>
 						<caption><![CDATA[ Ted Larsen<br><i>Rodeo Clown</i>, 2012<br> salvage Steel, hardware, marine-grade plywood<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/serialkiller9.jpg</source>
+						<source>/12/12.1/larsen/serialkiller9.JPG</source>
 						<caption><![CDATA[ Ted Larsen<br><i>Serial Killer #9</i>, 2012<br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/serialkiller10.jpg</source>
+						<source>/12/12.1/larsen/serialkiller10.JPG</source>
 						<caption><![CDATA[ Ted Larsen</br><i>Serial Killer #10</i>, 2012<br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/serialkiller11.jpg</source>
+						<source>/12/12.1/larsen/serialkiller11.JPG</source>
 						<caption><![CDATA[ Ted Larsen</br><i>Serial Killer #11</i>, 2012</br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.1/larsen/serialkiller16.jpg</source>
+						<source>/12/12.1/larsen/serialkiller16.JPG</source>
 						<caption><![CDATA[ Ted Larsen</br><i>Serial Killer #16</i>, 2012</br> salvage steel, marine-grade plywood, silicone, vulcanized rubber, hardware<br> courtesy of 8 Modern, McMurtrey Gallery, and the artist ]]></caption>
 					</image>
 				</artist>
@@ -229,7 +229,7 @@
 						<caption><![CDATA[ Robert M. Ellis<br> Woodcut Collage on Canvas #13, 2011<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.2/ellis/alcove_ellis_3.jpg</source>
+						<source>/12/12.2/ellis/alcove_ellis_4.jpg</source>
 						<caption><![CDATA[ Robert M. Ellis<br> Fence #10<br> oil on fence slats<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
@@ -756,7 +756,7 @@
 				</artist>
 				<artist name="Louis Schalk">
 					<image>
-						<source>/12/12.5/schalk/schalk_install.jpg</source>
+						<source>/12/12.5/schalk/schalk_install.JPG</source>
 						<caption><![CDATA[ Alcove 12.5 installation view<br> Louis Schalk during installation of <i>Museum of Reaccession</i> ]]></caption>
 					</image>
 					<image>
@@ -788,7 +788,7 @@
 				</artist>
 				<artist name="Toadhouse">
 					<image>
-						<source>/12/12.5/toadhouse/toadhouse_allangraham(install).jpg</source>
+						<source>/12/12.5/toadhouse/toadhouse_allangraham(install).JPG</source>
 						<caption><![CDATA[ Alcove 12.5 installation view<br> Allan Graham during installation of <i>Pond with Lotus</i> ]]></caption>
 					</image>
 					<image>
@@ -1006,15 +1006,15 @@
 						<caption><![CDATA[ Alcove 12.6 installation view<br>Karina Hean ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.6/hean/hean_coastline.jpg</source>
+						<source>/12/12.6/hean/hean_coastline.JPG</source>
 						<caption><![CDATA[ Karina Hean<br><i>Coastline</i>, 2012<br> graphite<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.6/hean/hean_fieldnotes_1.jpg</source>
+						<source>/12/12.6/hean/hean_fieldnotes_1.JPG</source>
 						<caption><![CDATA[ Karina Hean<br><i>Fieldnotes</i>, 2012<br> gouache, watercolor, acrylic, graphite, color pencil, ink on drafting film<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.6/hean/hean_fieldnotes_2.jpg</source>
+						<source>/12/12.6/hean/hean_fieldnotes_2.JPG</source>
 						<caption><![CDATA[ Karina Hean<br><i>Fieldnotes</i>, 2012<br> gouache, watercolor, acrylic, graphite, color pencil, ink on drafting film<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
@@ -1066,7 +1066,7 @@
 						<caption><![CDATA[ Marc Baseman<br><i>April</i>, 2012<br> graphite and dry pigment on paper<br> Collection of Margo Thoma ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.7/baseman/baseman_underworld.jpg</source>
+						<source>/12/12.7/baseman/baseman_underworld.JPG</source>
 						<caption><![CDATA[ Marc Baseman<br><i>Underworld</i>, 2012<br> graphite and dry pigment on paper<br> Collection of Ellen Goldberg ]]></caption>
 					</image>
 					<image>
@@ -1146,11 +1146,11 @@
 						<caption><![CDATA[ Eric Garduno<br><i>Second Phase (Various)</i>, 2012<br> charcoal on paper<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.7/garduno/Ex-001.jpg</source>
+						<source>/12/12.7/garduno/Ex-001.JPG</source>
 						<caption><![CDATA[ Eric Garduno<br><i>Second Phase (ex) 001</i>, 2012<br> charcoal on paper<br> courtesy of the artist ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.7/garduno/Ex-002.jpg</source>
+						<source>/12/12.7/garduno/Ex-002.JPG</source>
 						<caption><![CDATA[ Eric Garduno<br><i>Second Phase (ex) 002</i>, 2012<br> charcoal on paper<br> courtesy of the artist ]]></caption>
 					</image>
 				</artist>
@@ -1256,11 +1256,11 @@
 						<caption><![CDATA[ Alcove 12.8 installation view<br> Cristina González during installation of <i>Nepantla</i> ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.8/gonzalez/alcove_gonzalez_1.jpg</source>
+						<source>/12/12.8/gonzalez/Alcove_gonzalez_1.jpg</source>
 						<caption><![CDATA[ Alcove 12.8 installation view<br> Cristina González ]]></caption>
 					</image>
 					<image>
-						<source>/12/12.8/gonzalez/alcove_gonzalez_2.jpg</source>
+						<source>/12/12.8/gonzalez/Alcove_gonzalez_2.jpg</source>
 						<caption><![CDATA[ Cristina González<br><i>Nepantla</i>, 2013<br> cut vinyl<br>courtesy of the artist ]]></caption>
 					</image>
 				</artist>
@@ -1407,9 +1407,7 @@
 				<artist name="Jeff Deemie">
 					<image>
 						<source>/12/12.9/deemie/Alcove12.9_Deemie_1.jpg</source>
-						<caption><![CDATA[ 
-							Alcove 12.9 installation view</br>Jeff Deemie
-							]]>						</caption>
+						<caption><![CDATA[ Alcove 12.9 installation view</br>Jeff Deemie ]]></caption>
 					</image>
 					<image>
 						<source>/12/12.9/deemie/Alcove12.9_Deemie_2.jpg</source>
